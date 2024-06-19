@@ -1,0 +1,21 @@
+{
+    "AS_Button_a136e413879e4772a3b903b28b0ea348": {
+        "id": "AS_Button_a136e413879e4772a3b903b28b0ea348",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a9af83161db04e629fa4708246cad492",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "processSaveOrEditButton",
+            "display": "processSaveOrEditButton",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

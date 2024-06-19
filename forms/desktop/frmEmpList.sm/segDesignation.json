@@ -1,0 +1,159 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "imgDepartment0": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "unselected_1.png"
+            },
+            "lblDesignation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Management"
+            }
+        },
+        {
+            "imgDepartment0": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "unselected_1.png"
+            },
+            "lblDesignation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Management"
+            }
+        },
+        {
+            "imgDepartment0": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "unselected_1.png"
+            },
+            "lblDesignation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Management"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDesignation",
+    "ide_onRowClick": "AS_Segment_e897f7298a33440b87c656b99e719415",
+    "info": null,
+    "invokedProperty": "unselectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a1d83184ff924ae29a0e399ac6a29cc4",
+    "masterdata": {},
+    "maxheight": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDesignation",
+    "pf": "frmEmpList",
+    "responsiveData": {
+        "b1": {
+            "width": {
+                "type": "string",
+                "value": "105%"
+            }
+        },
+        "b2": {},
+        "b4": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ebb39246a6204eafa77c3b675fccd3b9",
+    "rowcounter": 2,
+    "rowfocusskin": "s1db3da8974843d2a5ee5a9a8d47f58d",
+    "rowskin": "s457b4d351df4372b33a845a4d0bad92",
+    "rowtemplate": "CopyflxDesignation",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sb125d2cf8c84b02aab462bd2aa033c6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectimage": "selected_1.png",
+    "selectionbehavior": "multiselect",
+    "selectionbehaviorconfig": {
+        "imageIdentifier": "imgDepartment0",
+        "selectedStateImage": "selected_1.png",
+        "unselectedStateImage": "unselected_1.png"
+    },
+    "selectionindicator": "imgDepartment0",
+    "separatorcolor": "e6e1e600",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "unselectimage": "unselected_1.png",
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxDesignation": "CopyflxDesignation",
+        "flxDepartment0": "flxDepartment0",
+        "imgDepartment0": "imgDepartment0",
+        "lblDesignation": "lblDesignation"
+    },
+    "zindex": 31
+}

@@ -1,0 +1,26 @@
+{
+    "AS_Button_jfae72319e7945a9a156a1a8306b0bcc": {
+        "id": "AS_Button_jfae72319e7945a9a156a1a8306b0bcc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_geffe2e3b3b44b0db69b8450926d6678",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeUIForEditMode",
+            "display": "changeUIForEditMode",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_ce0cbca8d5b44d1aaecebca45f77c2df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxEditHeader.setVisibility(true);",
+            "callbackType": null
+        }]
+    }
+}

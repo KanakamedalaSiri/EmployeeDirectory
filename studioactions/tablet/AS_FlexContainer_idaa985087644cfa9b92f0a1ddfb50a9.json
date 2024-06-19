@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_idaa985087644cfa9b92f0a1ddfb50a9": {
+        "id": "AS_FlexContainer_idaa985087644cfa9b92f0a1ddfb50a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d72d566ff218421bb54cd29522eeec9d",
+            "name": "frmHome"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_i0e16508600542f3a300f328f8a8e8fd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxIdentity.isVisible = false;\nthis.view.brwsrIdentity.htmlString = \"<html>Please wait !!</html>\"\n",
+            "callbackType": null
+        }]
+    }
+}

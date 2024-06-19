@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__UDWInstanceModelForRender__": true,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s16d368a844b48b38d6e48fc4138531c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {},
+    "id": "listdetail",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dc166299ef254dfa87233e756cbb1151",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "slidingmenu",
+    "pf": "frmListDetail",
+    "sourceUserWidget": "e4c1c41085064cce8842cbad8ec0b280",
+    "wType": "UserWidgetInstance"
+}

@@ -1,0 +1,278 @@
+{
+    "models": {
+        "desktop": {
+            "default": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [
+                    {
+                        "actionId": "NAVIGATE_TO_FORM___e7ab8f5a87c44986a0ac3be0a5944ada",
+                        "actionSequenceId": "AS_FlexContainer_af9b92edea594f6ebd51d02273df024b",
+                        "beautifiedPath": "frmEmpDetails > leftmenu > DirectoryMenuItemMouseover > onClick",
+                        "evt": "ide_onClick",
+                        "from": "psd18840916e4011e8bfbd290fbe0bfa7d",
+                        "isPSP": false,
+                        "points": [
+                            268,
+                            386.1785970052083,
+                            278,
+                            386.1785970052083,
+                            276,
+                            386.1785970052083,
+                            276,
+                            386.1785970052083,
+                            284,
+                            386.1785970052083,
+                            284,
+                            116.84526367187499,
+                            544,
+                            116.84526367187499,
+                            554,
+                            116.84526367187499
+                        ],
+                        "to": "b14b0e33877349078c917130e12fc60f",
+                        "widgetKUID": "d9d2ca3aeb5646f590a26aabd2d2c5bf"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM__ide_onClick_f993c508130848f69c6798b57a249494",
+                        "actionSequenceId": "AS_FlexContainer_bf0e3552f7da49e3a72d795b03d899f9",
+                        "beautifiedPath": "frmEmpDetails > flxLogout > onClick",
+                        "evt": "ide_onClick",
+                        "from": "psd18840916e4011e8bfbd290fbe0bfa7d",
+                        "isPSP": false,
+                        "points": [
+                            268,
+                            447.5119303385417,
+                            286,
+                            447.5119303385417,
+                            421,
+                            447.5119303385417,
+                            421,
+                            416.845263671875,
+                            967,
+                            416.845263671875,
+                            967,
+                            386.1785970052083,
+                            1082,
+                            386.1785970052083,
+                            1100,
+                            386.1785970052083
+                        ],
+                        "to": "d53a0c41005b46e9b1d5de20f80e6adb",
+                        "widgetKUID": "fb3344670dd1492f977fa45796e5bd4b"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM___h6965e18786a4514ab1d7d37e7d76c96",
+                        "actionSequenceId": "AS_FlexContainer_e6b995af4c0d464cb982413eefeadf49",
+                        "beautifiedPath": "frmEmpDetails > flxCloseDetails > onClick",
+                        "evt": "ide_onClick",
+                        "from": "psd18840916e4011e8bfbd290fbe0bfa7d",
+                        "isPSP": false,
+                        "to": "b14b0e33877349078c917130e12fc60f",
+                        "widgetKUID": "d5ca3d1c6cf74c1b8a8634d2ecb040c5"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM__ide_onClick_fc4c3f0343ab4c94bac99f593fd94dc4",
+                        "actionSequenceId": "AS_FlexContainer_j7c3a2b805d94a29bf5cdf039ce4aa88",
+                        "beautifiedPath": "frmEmpDetails > flxCloseEditMode > onClick",
+                        "evt": "ide_onClick",
+                        "from": "psd18840916e4011e8bfbd290fbe0bfa7d",
+                        "isPSP": false,
+                        "to": "b14b0e33877349078c917130e12fc60f",
+                        "widgetKUID": "j8d75df4ba3d4b4587a6c663bc75db7e"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM__ide_onClick_a2e44602aaa54f3fbb2b5c81ec9d7eb8",
+                        "actionSequenceId": "AS_FlexContainer_c1b4c672c23742c78bf15faf6c35eff3",
+                        "beautifiedPath": "frmEmpList > flxLogout > onClick",
+                        "evt": "ide_onClick",
+                        "from": "b14b0e33877349078c917130e12fc60f",
+                        "isPSP": false,
+                        "points": [
+                            814,
+                            116.845263671875,
+                            824,
+                            116.845263671875,
+                            828,
+                            116.845263671875,
+                            828,
+                            116.845263671875,
+                            1230,
+                            116.845263671875,
+                            1230,
+                            314.845263671875,
+                            1230,
+                            324.845263671875
+                        ],
+                        "to": "d53a0c41005b46e9b1d5de20f80e6adb",
+                        "widgetKUID": "c01997dc123a4edd82b30ba3a6aec17b"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM___d97505dfa5e34e879b99bd20c987857b",
+                        "actionSequenceId": "AS_FlexContainer_c208e1a054b44435961eb46be76c8062",
+                        "beautifiedPath": "frmEmpList > leftmenu > DirectoryMenuItemMouseover > onClick",
+                        "evt": "ide_onClick",
+                        "from": "b14b0e33877349078c917130e12fc60f",
+                        "isPSP": false,
+                        "points": [
+                            813,
+                            116.845263671875,
+                            839,
+                            116.845263671875,
+                            839,
+                            116.845263671875,
+                            839,
+                            233.845263671875,
+                            684,
+                            233.845263671875,
+                            684,
+                            207.845263671875
+                        ],
+                        "to": "b14b0e33877349078c917130e12fc60f",
+                        "widgetKUID": "g1149d33c3554bf6b3d4013b53daa328"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM___a947742a3ee84e1cad05741fc31be0dd",
+                        "actionSequenceId": "AS_FlexContainer_ec998c0f4ad54fe5893c6aed47e65bf3",
+                        "beautifiedPath": "frmSetting > leftmenu > SettingsMenu > onClick",
+                        "evt": "ide_onClick",
+                        "from": "a369de5a326c43e0b764ef2eef239f51",
+                        "isPSP": false,
+                        "points": [
+                            813,
+                            716.845263671875,
+                            839,
+                            716.845263671875,
+                            839,
+                            716.845263671875,
+                            839,
+                            833.845263671875,
+                            684,
+                            833.845263671875,
+                            684,
+                            807.845263671875
+                        ],
+                        "to": "a369de5a326c43e0b764ef2eef239f51",
+                        "widgetKUID": "j51f277164cb482b81325ebeb8f748d3"
+                    },
+                    {
+                        "actionId": "NAVIGATE_TO_FORM__ide_onClick_fa9b9b5d8bd5463088793e586e2b6721",
+                        "actionSequenceId": "AS_FlexContainer_fa8ed801e4994f4b9282f110189399ad",
+                        "beautifiedPath": "frmSetting > flxLogout > onClick",
+                        "evt": "ide_onClick",
+                        "from": "a369de5a326c43e0b764ef2eef239f51",
+                        "isPSP": false,
+                        "points": [
+                            814,
+                            716.845263671875,
+                            824,
+                            716.845263671875,
+                            828,
+                            716.845263671875,
+                            828,
+                            716.845263671875,
+                            836,
+                            716.845263671875,
+                            836,
+                            447.5119303385417,
+                            1090,
+                            447.5119303385417,
+                            1100,
+                            447.5119303385417
+                        ],
+                        "to": "d53a0c41005b46e9b1d5de20f80e6adb",
+                        "widgetKUID": "h956a24f424c432796d31883b7b9e7fb"
+                    }
+                ],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+                        "formName": "frmEmpDetails",
+                        "isStartupForm": false,
+                        "key": "psd18840916e4011e8bfbd290fbe0bfa7d",
+                        "loc": "8 324.845263671875",
+                        "thumbnailURL": null
+                    },
+                    {
+                        "formKUID": "b14b0e33877349078c917130e12fc60f",
+                        "formName": "frmEmpList",
+                        "isStartupForm": false,
+                        "key": "b14b0e33877349078c917130e12fc60f",
+                        "loc": "554 24.845263671875003",
+                        "thumbnailURL": null
+                    },
+                    {
+                        "formKUID": "d53a0c41005b46e9b1d5de20f80e6adb",
+                        "formName": "frmLogin",
+                        "isStartupForm": true,
+                        "key": "d53a0c41005b46e9b1d5de20f80e6adb",
+                        "loc": "1100 324.845263671875",
+                        "thumbnailURL": null
+                    },
+                    {
+                        "formKUID": "a369de5a326c43e0b764ef2eef239f51",
+                        "formName": "frmSetting",
+                        "isStartupForm": false,
+                        "key": "a369de5a326c43e0b764ef2eef239f51",
+                        "loc": "554 624.845263671875",
+                        "thumbnailURL": null
+                    }
+                ]
+            }
+        },
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM___h6d6d044df6d47ac861556e1997e7905",
+                    "actionSequenceId": "AS_UWI_j1f6e5f62fc54b969fcf40792960ad96",
+                    "beautifiedPath": "frmHome > login > loginSuccessEvent",
+                    "evt": "ide_loginSuccessEvent",
+                    "from": "ja15969d78324c34b19d8c6da0624b61",
+                    "isPSP": false,
+                    "points": [
+                        177.6,
+                        188.445263671875,
+                        187.6,
+                        188.445263671875,
+                        187.6,
+                        188.44526367187498,
+                        187.6,
+                        188.44526367187498,
+                        453.6,
+                        188.44526367187498,
+                        463.6,
+                        188.44526367187498
+                    ],
+                    "to": "e0b751a660054b7e833ee74c96240c31",
+                    "widgetKUID": "da1bf9656f824bf19e63d706a077bf4b"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "ja15969d78324c34b19d8c6da0624b61",
+                    "formName": "frmHome",
+                    "isStartupForm": true,
+                    "key": "ja15969d78324c34b19d8c6da0624b61",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "a9ef888c1cde4b7493d8b9576d63ac43",
+                    "formName": "frmKnowledgeFramework",
+                    "isStartupForm": false,
+                    "key": "a9ef888c1cde4b7493d8b9576d63ac43",
+                    "loc": "463.6 624.845263671875",
+                    "thumbnailURL": "/assets/EmployeeDirectory/forms/mobile/frmKnowledgeFramework.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "e0b751a660054b7e833ee74c96240c31",
+                    "formName": "frmListDetail",
+                    "isStartupForm": false,
+                    "key": "e0b751a660054b7e833ee74c96240c31",
+                    "loc": "463.6 24.845263671875003",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}

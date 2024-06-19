@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s4028f098e7848bc82b2f54061efe023",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "ide_loginSuccessEvent": "AS_UWI_e7229ac3f90541c3a4c4008ce65d21f8",
+        "logoSource": "login_image_1.png",
+        "passwordMaxChar": 999,
+        "passwordMinimumChar": "1",
+        "passwordPlaceholder": "Password",
+        "passwordValidationMsg": "Username or Password should not be empty",
+        "providerName": "userIdentityService",
+        "socialLoginVisible": false,
+        "touchIDProperty": false,
+        "usernameMaxChar": 999,
+        "usernameMinimumChar": "1",
+        "usernamePlaceholder": "Username",
+        "usernameValidationMsg": "Username or Password should not be empty"
+    },
+    "id": "login",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d5be80af2f5d478399ec765498cfbd0f",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "sourceUserWidget": "cd4834da3fd340b8a65f483ef9d593a7",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_cbf161949265483fb3a25ffda5bad164": {
+        "id": "AS_FlexContainer_cbf161949265483fb3a25ffda5bad164",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__afd1a2e7516a401e9f70e7672a993647",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxProfileMain.setVisibility(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

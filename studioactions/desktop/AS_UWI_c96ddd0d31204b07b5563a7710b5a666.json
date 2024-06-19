@@ -1,0 +1,23 @@
+{
+    "AS_UWI_c96ddd0d31204b07b5563a7710b5a666": {
+        "id": "AS_UWI_c96ddd0d31204b07b5563a7710b5a666",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "datatype": "collection"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onUserFlxClick_a670f35393cf43e59838e8ca2623e9bf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleProfile",
+            "display": "toggleProfile",
+            "inputparams": [{
+                "name": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

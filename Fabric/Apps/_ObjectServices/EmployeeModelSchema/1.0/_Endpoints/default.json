@@ -1,0 +1,9 @@
+{
+  "name" : "default",
+  "type" : "SAAS",
+  "encryptSecureInfo" : false,
+  "config" : {
+    "sampleData" : "EmployeeModelSchema (2).zip"
+  },
+  "jsonpath" : false
+}

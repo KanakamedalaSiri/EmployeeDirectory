@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_c27aefb37a7a4fe499a86bdf8b86727b": {
+        "id": "AS_FlexContainer_c27aefb37a7a4fe499a86bdf8b86727b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b9bdb48d7f374732977356d597d5ab20",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.animateLeftMenu();",
+            "callbackType": null
+        }]
+    }
+}

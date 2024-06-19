@@ -1,0 +1,26 @@
+{
+  "subType" : "customapp",
+  "description" : "EmployeeDirectory\r\n",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "fetchImageService",
+    "version" : "1.0",
+    "etag" : "f8fa0fb1-8833-4382-885a-87c0530284df"
+  } ],
+  "orchSvcs" : [ {
+    "name" : "EmployeeStorageObjects",
+    "version" : "1.0",
+    "etag" : "72e07e34-473b-4e44-b437-d407d088c5b3"
+  } ],
+  "objectSvcs" : [ {
+    "name" : "EmployeeModelSchema",
+    "version" : "1.0",
+    "etag" : "afbb166a-210b-46f4-a318-0939fd04a8d5"
+  }, {
+    "name" : "StorageObjectServices",
+    "version" : "1.0",
+    "etag" : "bda6d43e-5190-4db7-8764-e4ef00eefd22"
+  } ],
+  "identity" : [ "userIdentityService" ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}

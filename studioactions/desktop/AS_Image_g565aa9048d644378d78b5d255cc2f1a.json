@@ -1,0 +1,34 @@
+{
+    "AS_Image_g565aa9048d644378d78b5d255cc2f1a": {
+        "id": "AS_Image_g565aa9048d644378d78b5d255cc2f1a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f884ff50274448bfb0d74ae3ced765aa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateLeftMenu",
+            "display": "animateLeftMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

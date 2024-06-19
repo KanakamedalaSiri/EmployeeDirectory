@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_bdbcaf843f394502a060e2104b18c70c": {
+        "id": "AS_FlexContainer_bdbcaf843f394502a060e2104b18c70c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f459c1791397460aa4867a5c6d4c4609",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleProfile",
+            "display": "toggleProfile",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET__f53a3fbc1b8d4c4e9bc5c6135e245cb2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.toggleProfile(\"userProfile\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

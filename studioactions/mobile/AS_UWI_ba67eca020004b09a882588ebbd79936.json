@@ -1,0 +1,18 @@
+{
+    "AS_UWI_ba67eca020004b09a882588ebbd79936": {
+        "id": "AS_UWI_ba67eca020004b09a882588ebbd79936",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e0b751a660054b7e833ee74c96240c31",
+            "platform": "",
+            "type": "forms",
+            "name": "frmListDetail"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

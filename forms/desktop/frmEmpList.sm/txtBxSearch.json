@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Type Keyword",
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "safe937ea04944c3ba6bd52df3ae2ad8",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {},
+    "focusskin": "sd07c7a333db41b1ab8e102f6c3751a0",
+    "hoverskin": "",
+    "id": "txtBxSearch",
+    "ide_onTextChange": "AS_TextField_ja9150d585e0480abb910b1324296030",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d5c4a6d3a2dc4f169dc7956eae24bef0",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxSearchBar",
+    "pf": "frmEmpList",
+    "placeholderskin": "sd0c26340a7c4a0fb99f7e773505f279",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

@@ -1,0 +1,31 @@
+{
+    "AS_ListBox_d5d5fa572b0d432eadb553da25218390": {
+        "id": "AS_ListBox_d5d5fa572b0d432eadb553da25218390",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a4f7c5bf6965423da9e4417af4698cd0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMasterDataSelected",
+            "display": "onMasterDataSelected",
+            "inputparams": [{
+                "name": "param",
+                "value": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

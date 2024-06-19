@@ -1,0 +1,210 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s6cdb1fcc1dd48ebacbc0a686dc29bd9",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "enableHeader": true,
+        "enableMenuItemAnimation": true,
+        "enableSeparator": false,
+        "flxTargetContainer": {
+            "children": [
+                "listdetail"
+            ],
+            "targetContainerInfo": true
+        },
+        "footerStyle": "only Text",
+        "footerText": "Logout",
+        "headerAnimation": "Slide In",
+        "headingLeft": {
+            "Default": {
+                "type": "string",
+                "value": "10%"
+            }
+        },
+        "headingText": "Voltmx",
+        "headingTextIsVisible": true,
+        "headingTop": {
+            "Default": {
+                "type": "string",
+                "value": "20%"
+            }
+        },
+        "menuOptions": {
+            "data": [
+                {
+                    "menuItemIcon": "imgline.png",
+                    "menuItemName": "Directory"
+                },
+                {
+                    "menuItemIcon": "imgline.png",
+                    "menuItemName": "Colleagues"
+                },
+                {
+                    "menuItemIcon": "imgline.png",
+                    "menuItemName": "Messages"
+                },
+                {
+                    "menuItemIcon": "imgline.png",
+                    "menuItemName": "Events"
+                },
+                {
+                    "menuItemIcon": "imgline.png",
+                    "menuItemName": "Settings"
+                }
+            ],
+            "schema": [
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Menu Item Name",
+                    "columnHeaderType": "text",
+                    "columnID": "menuItemName",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "f8ade95d4f564430ad3314aa8392f025"
+                },
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Menu Item Icon",
+                    "columnHeaderType": "text",
+                    "columnID": "menuItemIcon",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "image",
+                    "kuid": "ed67cd7bd0bb449db2118f45df628dfe"
+                }
+            ]
+        },
+        "menuTextSkin": "sf4e87a16a5344c7a032c09b8f102cf2",
+        "placeholderVisibility": false,
+        "profileImageHeight": {
+            "Default": {
+                "type": "string",
+                "value": "50dp"
+            }
+        },
+        "profileImageIsVisible": true,
+        "profileImageLeft": {
+            "Default": {
+                "type": "string",
+                "value": "10%"
+            }
+        },
+        "profileImageSrc": "profile_1.png",
+        "profileImageTop": {
+            "Default": {
+                "type": "string",
+                "value": "20%"
+            }
+        },
+        "profileImageWidth": {
+            "Default": {
+                "type": "string",
+                "value": "50dp"
+            }
+        },
+        "slidingMenuAnimation": "Squeeze",
+        "slidingMenuIcon": "hamburger_1.png",
+        "slidingMenuIconVisibility": false,
+        "slidingMenuSkin": "s779581c487a4117ba5ac9cd10660e73",
+        "slidingMenuVisibility": false,
+        "subHeadingLeft": {
+            "Default": {
+                "type": "string",
+                "value": "10%"
+            }
+        },
+        "subHeadingSkin": "s54dffbc585a4e30a0c7a49094296aa5",
+        "subHeadingText": "testuser@hcl.com",
+        "subHeadingTextIsVisible": true,
+        "subHeadingTop": {
+            "Default": {
+                "type": "string",
+                "value": "40%"
+            }
+        },
+        "subMenuOptions": {
+            "data": [],
+            "schema": [
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Menu Item Name",
+                    "columnHeaderType": "text",
+                    "columnID": "menuItemName",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "d40249434d8c4cd1b66e25d797bc5e3c"
+                },
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "SubMenu Item Name",
+                    "columnHeaderType": "text",
+                    "columnID": "submenuItemName",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "eddf1d51847e41d7842b6d52033db26d"
+                },
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "SubMenu Item Icon",
+                    "columnHeaderType": "text",
+                    "columnID": "submenuItemIcon",
+                    "columnOnClick": null,
+                    "columnText": "Not Defined",
+                    "columnType": "image",
+                    "kuid": "f4277a24ea5540a9947b130aff8ae77b"
+                }
+            ]
+        }
+    },
+    "id": "slidingmenu",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bd6cd806e10d4813b8579a24457544b3",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRoot",
+    "pf": "frmListDetail",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "sourceUserWidget": "m8e464bb908946d5a8beecad6f314755",
+    "wType": "UserWidgetInstance",
+    "zindex": 99
+}

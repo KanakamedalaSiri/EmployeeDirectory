@@ -1,0 +1,1 @@
+function AS_6d457cb0(eventObject){kony_rotate(kony.application.getCurrentForm().Triangle,-180);kony_rotate(kony.application.getCurrentForm().Triangle,-180);}

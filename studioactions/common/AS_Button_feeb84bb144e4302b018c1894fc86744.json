@@ -1,0 +1,22 @@
+{
+    "AS_Button_feeb84bb144e4302b018c1894fc86744": {
+        "id": "AS_Button_feeb84bb144e4302b018c1894fc86744",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "ub6fa345d1d94544a81e90575c96760e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_i15ead945f7c4ceebb89aad6a53f8517",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.tbxSearch.text= \"\";\nthis.view.btnCancel.isVisible=false;\nthis.view.segEmployees.setVisibility(false);\nthis.view.lblNoSegmentDataFound.isVisible = true;",
+            "parentId": null
+        }]
+    }
+}

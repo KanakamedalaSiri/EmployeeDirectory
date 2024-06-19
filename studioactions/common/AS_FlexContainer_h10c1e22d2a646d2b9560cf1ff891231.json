@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_h10c1e22d2a646d2b9560cf1ff891231": {
+        "id": "AS_FlexContainer_h10c1e22d2a646d2b9560cf1ff891231",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "ufa7b6ba67b844e0acb37c18f4fedcd2",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ca10f9278eae4612ba990a0db90b1257",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var t= '123';\n//dummyaction added to disable onclicks of dynamic widgets\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

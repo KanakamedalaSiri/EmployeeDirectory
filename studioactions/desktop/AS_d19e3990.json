@@ -1,0 +1,24 @@
+{
+    "AS_d19e3990": {
+        "id": "AS_d19e3990",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d19e60a0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onFormPostShow();\n//kony_rotate(kony.application.getCurrentForm().Path3,-180);kony_rotate(kony.application.getCurrentForm().Path3140304942388160,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921568,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921856,-180);kony_rotate(kony.application.getCurrentForm().Path3,-180);kony_rotate(kony.application.getCurrentForm().Path3140304942388160,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921568,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921856,-180);kony_rotate(kony.application.getCurrentForm().Path3,-180);kony_rotate(kony.application.getCurrentForm().Path3140304942388160,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921568,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921856,-180);kony_rotate(kony.application.getCurrentForm().Path3,-180);kony_rotate(kony.application.getCurrentForm().Path3140304942388160,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921568,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921856,-180);kony_rotate(kony.application.getCurrentForm().Path3,-180);kony_rotate(kony.application.getCurrentForm().Path3140304942388160,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921568,-180);kony_rotate(kony.application.getCurrentForm().Path3140305061921856,-180);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

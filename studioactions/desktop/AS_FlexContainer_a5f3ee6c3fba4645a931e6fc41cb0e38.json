@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a5f3ee6c3fba4645a931e6fc41cb0e38": {
+        "id": "AS_FlexContainer_a5f3ee6c3fba4645a931e6fc41cb0e38",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__af1ad75092a940a3a3a4b4f59ad087b9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideALertComponentCallBack();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

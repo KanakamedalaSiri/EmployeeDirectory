@@ -1,0 +1,29 @@
+{
+    "AS_Segment_d9774190f1114a0a94011eaf84896df4": {
+        "id": "AS_Segment_d9774190f1114a0a94011eaf84896df4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_ca3838bd139b4a74953b080d280da046",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onSegmenFilterClick",
+            "display": "onSegmenFilterClick",
+            "inputparams": [{
+                "name": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

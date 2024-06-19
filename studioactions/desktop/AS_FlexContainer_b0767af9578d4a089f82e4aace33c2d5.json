@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_b0767af9578d4a089f82e4aace33c2d5": {
+        "id": "AS_FlexContainer_b0767af9578d4a089f82e4aace33c2d5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h0af72d0114c423d8a3eb98f4639f72f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRemoveLocation",
+            "display": "onRemoveLocation",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

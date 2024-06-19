@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "City",
+    "_skin_": "s54f0e44e91548d58e77b3cd39a7f09a",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "220px"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sd07c7a333db41b1ab8e102f6c3751a0",
+    "id": "txtBoxEmpCity",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "b08665606b95498ebb14f899f079bf8c",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxCityZip",
+    "pf": "frmSetting",
+    "placeholderskin": "sd0c26340a7c4a0fb99f7e773505f279",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "50px"
+            },
+            "width": {
+                "type": "string",
+                "value": "150px"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

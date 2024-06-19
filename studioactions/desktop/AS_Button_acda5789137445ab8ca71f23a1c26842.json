@@ -1,0 +1,24 @@
+{
+    "AS_Button_acda5789137445ab8ca71f23a1c26842": {
+        "id": "AS_Button_acda5789137445ab8ca71f23a1c26842",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h496fe3fad4341bf811e753ef24b296a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.processSaveOrEditButton();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

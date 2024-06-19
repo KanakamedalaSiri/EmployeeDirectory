@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_a34715dd3d804d16a35c52e8c46ad1e3": {
+        "id": "AS_FlexContainer_a34715dd3d804d16a35c52e8c46ad1e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_dcdf8380b3154d59877e7725324d7dfd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "  voltmx.ui.Alert( {\n          message: \"Messages\",\n          alertType: constants.ALERT_TYPE_INFO,\n\n        }, {\n          \"contentAlignment\": constants.ALERT_CONTENT_ALIGN_CENTER\n        });",
+            "parentId": null
+        }]
+    }
+}

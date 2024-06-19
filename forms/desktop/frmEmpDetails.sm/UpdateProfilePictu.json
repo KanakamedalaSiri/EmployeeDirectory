@@ -1,0 +1,173 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s109b8cdfc7b48969755bf42c64bec7c",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "142dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "UpdateProfilePictu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "edb18c5c6a444e26ad1cc82b8a8ba924",
+    "maxwidth": {
+        "type": "string",
+        "value": ""
+    },
+    "name": "kony.ui.Label",
+    "parent": "flxProfilePickSelection",
+    "pf": "frmEmpDetails",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "contentAlignment": 5,
+            "desktopweb": {
+                "maxWidth": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "type": "string",
+                "value": "12.40%"
+            },
+            "left": {
+                "type": "string",
+                "value": "18dp"
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "sf045a97cadc4c3b8ebb06a6d2af49b1",
+            "text": "Update Profile Picture",
+            "top": {
+                "type": "string",
+                "value": "147px"
+            },
+            "width": {
+                "type": "string",
+                "value": "144px"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "skin": "psd189ee416e4011e8bfbd290fbe0bfa7d",
+            "text": "Update Profile Picture",
+            "top": {
+                "type": "string",
+                "value": "149dp"
+            }
+        },
+        "b3": {
+            "contentAlignment": 5,
+            "left": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "skin": "s55deecf541d4aa9bd1262ec5ea4ff62",
+            "text": "Update Profile Picture",
+            "top": {
+                "type": "string",
+                "value": "155dp"
+            }
+        },
+        "b3285039728": {
+            "left": {
+                "type": "string",
+                "value": "3dp"
+            },
+            "skin": "sae7934e3b444445bcbfc854abef6820",
+            "text": "Update Profile Picture",
+            "top": {
+                "type": "string",
+                "value": "151dp"
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "s15e69178b5c4c8ab51d6bced466dbab",
+            "text": "Update Profile Picture",
+            "top": {
+                "type": "string",
+                "value": "160dp"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "skin": "s15e69178b5c4c8ab51d6bced466dbab",
+            "text": "Update Profile Picture",
+            "top": {
+                "type": "string",
+                "value": "206dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_d9c4242bcedc4d09a7a66faf05a04bdb": {
+        "id": "AS_FlexContainer_d9c4242bcedc4d09a7a66faf05a04bdb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d72d566ff218421bb54cd29522eeec9d",
+            "name": "frmHome"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ba423e6a7d2947c9a3588313d8f80a13",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "voltmx.store.setItem(\"inputType\",\"social\");\nthis.invokeIdentityService(\"reusableLinkedinLogin\");\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0aec4d3990645f8ac32928cbe3f6563",
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "flexFreeAPI",
+        "lblDummy"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "CopyflexAPIs0fbd5c7ed80e249Controller"
+        }
+    },
+    "enablescrolling": true,
+    "id": "CopyflexAPIs0fbd5c7ed80e249",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "f3ecfb361a77485c9d57a72f3e258591",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "tmpSegAPI",
+    "pf": "tmpSegAPI",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_g5ce6064b19c464aa2e8dcd69033bc4f": {
+        "id": "AS_FlexContainer_g5ce6064b19c464aa2e8dcd69033bc4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d717763d75594bc48831059ee3c0eadb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleFilter",
+            "display": "toggleFilter",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_a1ca7fd1105d4e5eb82aae1d312c33c6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.toggleFilter(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

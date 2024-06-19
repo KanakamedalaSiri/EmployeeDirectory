@@ -1,0 +1,28 @@
+{
+    "AS_Button_cc4061dc5dfd4c5ebd2770848f8eb330": {
+        "id": "AS_Button_cc4061dc5dfd4c5ebd2770848f8eb330",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d28c63bce9544a50a2d5ae2cb7916e99",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "processSaveOrEditButton",
+            "display": "processSaveOrEditButton",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

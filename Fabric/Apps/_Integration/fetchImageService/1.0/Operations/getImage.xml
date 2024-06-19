@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<service serviceGroup="" cachable="false" cacheduration="" customOperation="false" description="" endpoint="default" groupType="" id="getImage" passwordencrypted="false" security="public" type="jsonConnector" smscode="" smsenabled="false">
+    <service-config>
+        <config-param api-version="" appid="" name="preprocessorname" value=""/>
+        <config-param api-version="" appid="" name="postprocessorname" value=""/>
+        <config-param api-version="" appid="" name="preprocessorJS" value=""/>
+        <config-param api-version="" appid="" name="postprocessorJS" value=""/>
+        <config-param api-version="" appid="" name="preprocessorRules" value=""/>
+        <config-param api-version="" appid="" name="postprocessorRules" value=""/>
+        <config-param api-version="" appid="" name="kony_http_supported_methods" value="POST"/>
+        <config-param api-version="" appid="" name="endpointUrl" value="https://manage.hclvoltmx.com/services/data/v1/EmployeeModelSchema/binary/Media?fieldName=$fieldName&amp;Media_id=$Id&amp;type=$type"/>
+        <config-param api-version="" appid="" name="ignorehttpproxy" value="true"/>
+        <config-param api-version="" appid="" name="http.method" value="GET"/>
+        <config-param api-version="" appid="" name="dataObjectName" value=""/>
+        <config-param api-version="" appid="" name="sockettimeout" value=""/>
+        <config-param api-version="" appid="" name="responseEncoding" value="UTF-8"/>
+        <config-param api-version="" appid="" name="isembedxmlpresent" value="false"/>
+        <config-param api-version="" appid="" name="retrycount" value="0"/>
+        <config-param api-version="" appid="" name="identityProvider" value="userIdentityService"/>
+        <config-param api-version="" appid="" name="identityProviderType" value="userstore"/>
+    </service-config>
+    <service-input passthrough="false" isExtended="false">
+        <header datatype="" name="" passthrough="false" isExtended="false">
+            <param datatype="string" defaultvalue="" description="" encode="false" format="None" formatvalue="" name="Content-Type" order="" paramOrder="0" parentOrder="0" sms-name="" src="request" sourcevalue="" srcformatvalue="" target="" targetdatatype="" testvalue="application/x-www-form-urlencoded" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="string" defaultvalue="" description="" encode="false" format="None" formatvalue="" name="X-voltmx-Authorization" order="" paramOrder="0" parentOrder="0" sms-name="" src="request" sourcevalue="" srcformatvalue="" target="" targetdatatype="" testvalue="eyAidHlwIjogImp3dCIsICJhbGciOiAiUlMyNTYiIH0.eyAiX2VtYWlsIjogIndhc2VlbS5haG1lZEBrb255LmNvbSIsICJfdmVyIjogInYxLjEiLCAiaXNzIjogImh0dHA6Ly9raDkyMjQua2l0c3BsLmNvbTo4NDQzL2F1dGhTZXJ2aWNlL2FjY291bnRzIiwgIl9zY29wZSI6ICJnIiwgIl9pc3NtZXRhIjogIi9tZXRhZGF0YS9sVHhmZlJKaDhzZmxPdXJIVEpuNHVRPT0iLCAiX3Nlc3Npb25faWQiOiAiMjAzNWRmMGEtODhjYS00OTFmLWIzZjktZmMyNjNjMjI5YjUwIiwgIl9wdWlkIjogNDc3MDEyMDUwNTk0OCwgIl9pZHAiOiAidXNlcnN0b3JlIiwgImV4cCI6IDE0OTUxOTQ3MTQsICJpYXQiOiAxNDk1MTkxMTE0LCAiX3Nlc3Npb25fdGlkIjogImFjY291bnRzIiwgIl9wcm92X3VzZXJpZCI6ICJ3YXNlZW0uYWhtZWRAa29ueS5jb20iLCAianRpIjogImU4YWU1MGZmLWYxZWEtNGUxNy1iMTlkLWY1NmI1NzViYzRkNiIsICJfYWNzIjogImFjY291bnRzIiB9.WiiSG713_jZwKyjPSK1CahFz49YxRjLJlKxMf_MJmXmoLr5_CRpJQdnoWRTV_1QrTx8EkgJTifKDKYPsHPXhz8i01MsKOX7YHoC51qRU7HL0EhsvcZg0zikDEccgq4ATzCZXMVdHQLXUx5os_gI7CameoU10b1jYscmM6uDf45kETAe2vJs-K7RoOmNz-rp1aCigYrwey-3QqZWbAtxy2zxqdjJ5NcoZoIHm9r5IucoXiIfg_BbiN-0BIHSCBM0UDY5GAHEWKFZOR1q1XUaEUQfj-ECI1OaV7MBlAJe-QPkZqN5NuoRJYmjSm0UvmZ-lvexaHD4OsulMR1_y8R8v5w" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </header>
+        <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="Id" order="" paramOrder="1" parentOrder="-1" passnull="false" sms-name="" src="request" sourcevalue="" srcformatvalue="" target="request" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="fieldName" order="" paramOrder="2" parentOrder="-1" passnull="false" sms-name="" src="request" sourcevalue="" srcformatvalue="" target="request" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="type" order="" paramOrder="3" parentOrder="-1" passnull="false" sms-name="" src="request" sourcevalue="" srcformatvalue="" target="request" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <stub-param value=""/>
+    </service-input>
+    <service-output passthrough="false" isExtended="false"/>
+</service>

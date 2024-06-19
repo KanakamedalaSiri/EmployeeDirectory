@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "4.87%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb06fbc99ff545c7ac75b0bb89d8e6b1",
+    "_top_": {
+        "type": "string",
+        "value": "1.8%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Line140369810555920",
+        "DirectoryMenuItem"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s99db0827f7d420a81c5d6afc4628535"
+        }
+    },
+    "disabledSkins": {},
+    "enablescrolling": true,
+    "id": "DirectoryMenuItemMouseover",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i70dcaba07e64097afc61432993dc431",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyLeftMenu0e1243597416245",
+    "pf": "userwidgetmodel",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 3
+}

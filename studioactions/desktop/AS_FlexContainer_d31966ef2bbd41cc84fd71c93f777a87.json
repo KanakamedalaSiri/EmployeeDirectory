@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_d31966ef2bbd41cc84fd71c93f777a87": {
+        "id": "AS_FlexContainer_d31966ef2bbd41cc84fd71c93f777a87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cbb5793b88db45eda91da19aa24b3e5e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeItem",
+            "display": "removeItem",
+            "inputparams": [{
+                "name": "eventObject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

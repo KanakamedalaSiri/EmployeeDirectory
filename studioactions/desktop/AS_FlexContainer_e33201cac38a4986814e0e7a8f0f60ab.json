@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_e33201cac38a4986814e0e7a8f0f60ab": {
+        "id": "AS_FlexContainer_e33201cac38a4986814e0e7a8f0f60ab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j3ea128c07784662bfe00764846624ed",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"clicked the remove icon in the segment\");\nthis.executeOnParent(\"processRemoveIcon\",context.widgetInfo.selecteditems[0]);\n",
+            "callbackType": null
+        }]
+    }
+}

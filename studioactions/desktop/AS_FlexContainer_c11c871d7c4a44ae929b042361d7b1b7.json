@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_c11c871d7c4a44ae929b042361d7b1b7": {
+        "id": "AS_FlexContainer_c11c871d7c4a44ae929b042361d7b1b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d93ef4ae991a4dac929c31bab3f58740",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideALertComponentCallBack();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

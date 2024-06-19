@@ -1,0 +1,17 @@
+{
+    "AS_Button_c5b87524da474978827eda143b9da433": {
+        "id": "AS_Button_c5b87524da474978827eda143b9da433",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a4f45537f24c43209c146e63d9471bec",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.processSaveOrEditButton();",
+            "callbackType": null
+        }]
+    }
+}

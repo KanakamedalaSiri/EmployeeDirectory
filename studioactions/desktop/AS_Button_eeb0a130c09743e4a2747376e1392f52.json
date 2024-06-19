@@ -1,0 +1,27 @@
+{
+    "AS_Button_eeb0a130c09743e4a2747376e1392f52": {
+        "id": "AS_Button_eeb0a130c09743e4a2747376e1392f52",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a5c787bf63b648d6ab98f2fc0c009156",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeUIForEditMode",
+            "display": "changeUIForEditMode",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

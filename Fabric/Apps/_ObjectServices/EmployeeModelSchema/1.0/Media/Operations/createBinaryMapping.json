@@ -1,0 +1,27 @@
+{
+  "operationConfig" : {
+    "name" : "createBinaryMedia2211",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "public",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "createBinary",
+    "relationshipHierarchyMapping" : {
+      "children" : [ ],
+      "name" : "Media",
+      "actions" : { },
+      "selected" : true
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  },
+  "enableFrontendUrl" : false,
+  "customVerb" : false
+}

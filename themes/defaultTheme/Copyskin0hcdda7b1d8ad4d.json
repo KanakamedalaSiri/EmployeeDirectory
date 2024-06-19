@@ -1,0 +1,17 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "00000000",
+  "border_radius": 30,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 156,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sb4d62d24d0246d58e0b407666e5fa7e",
+  "wType": "Image"
+}

@@ -1,0 +1,22 @@
+{
+  "background_color": "77bd43ff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Avenir-Medium",
+    "font_size": 100,
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "ffffffff",
+  "font_name": "iphoneSystem",
+  "font_size": 38,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "saf049b67a144a4b952cd60ae3371d18",
+  "wType": "Button"
+}

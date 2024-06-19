@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_skin_": "s2c06820a3a14b76b5cb4457c9fbffc0",
+    "_text_": "Add New Department",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "210px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "hoverSkin": "s99c99c93d69490c94f1e5ac5c7dbf26"
+    },
+    "displaytext": true,
+    "focusskin": "s847213ab2704f66a1f4fd725b816f5f",
+    "id": "btnAddNewMaster0",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f320f968183a445e93c7365e01c2f8db",
+    "name": "kony.ui.Button",
+    "parent": "flxContentHeader",
+    "pf": "frmSetting",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "50%"
+            },
+            "skin": "sa74a15d033c47179499dbd79ed821c7",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b4": {
+            "width": {
+                "type": "string",
+                "value": "200px"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "32%"
+            },
+            "width": {
+                "type": "string",
+                "value": "65%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

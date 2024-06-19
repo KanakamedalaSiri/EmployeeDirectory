@@ -1,0 +1,30 @@
+{
+    "AS_Button_f6dc0ebdd65640488af853d876bcb0fe": {
+        "id": "AS_Button_f6dc0ebdd65640488af853d876bcb0fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "platform": "",
+            "type": "forms",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hac8397aee1548a0bf7bc3aa839e9f88",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onPostShow();\nthis.view.empHeader1.btnCancelsearch.setVisibility(false);\nthis.view.empHeader1.imgSearchMob.setVisibility(true);\nthis.view.btnFilter.setVisibility(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

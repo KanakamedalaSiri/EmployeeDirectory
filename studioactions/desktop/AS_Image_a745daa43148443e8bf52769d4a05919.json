@@ -1,0 +1,43 @@
+{
+    "AS_Image_a745daa43148443e8bf52769d4a05919": {
+        "id": "AS_Image_a745daa43148443e8bf52769d4a05919",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "c28ed57227824a439889454f83d9a8ce",
+            "name": "templateEmpListTab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___edf6b8f48a6342ec8905cc96b93605f4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSegmentData",
+            "display": "showSegmentData",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": "  context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "301px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Employee ID",
+    "_right_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_skin_": "s2960cf093264f778e40ac2d3eb0d2d0",
+    "_text_": "",
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "psd1938b316e4011e8bfbd290fbe0bfa7d",
+    "id": "txtEmpId",
+    "info": null,
+    "isvisible": false,
+    "keyboardtype": "A",
+    "kuid": "ff56cf50c4ba480a91ee5b462cf9821d",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxEmpId",
+    "pf": "frmEmpDetails",
+    "responsiveData": {},
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 21
+}

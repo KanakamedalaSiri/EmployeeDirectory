@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_a36023040348411689e6ea803749f197": {
+        "id": "AS_FlexContainer_a36023040348411689e6ea803749f197",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "faafaa98130042a69aa5432ef96995bd",
+            "name": "tempLocationDesk"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a4e78ed3aacc48909b72480523eb1bbf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRemoveLocation",
+            "display": "onRemoveLocation",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

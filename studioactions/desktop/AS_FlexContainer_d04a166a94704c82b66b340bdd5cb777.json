@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_d04a166a94704c82b66b340bdd5cb777": {
+        "id": "AS_FlexContainer_d04a166a94704c82b66b340bdd5cb777",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_fd289427b78e4ad6a20b4f2716a4447b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"clicked the edit icon in the segment\");\nthis.executeOnParent(\"processEditIcon\",context.widgetInfo.selecteditems[0]);\n",
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onClick_d76910f6e6364cb09b4ed9a554345eb4",
+            "type": "INVOKE_FUNCTION",
+            "display": "onEditEmployee",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_fe52740eff8d4bd58b74f7383c66d92b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onEditLocation(eventobject, context);",
+            "callbackType": null
+        }]
+    }
+}

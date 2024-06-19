@@ -1,0 +1,14 @@
+{
+    "AS_UWI_j026c7d502e743ff87894936e1be76c9": {
+        "id": "AS_UWI_j026c7d502e743ff87894936e1be76c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onAlertFlexClick_d79e5e4bab9047178b95da7349274045",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideALertComponentCallBack();",
+            "callbackType": null
+        }]
+    }
+}

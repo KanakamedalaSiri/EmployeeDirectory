@@ -1,0 +1,27 @@
+{
+    "AS_UWI_g5df4ff260f342dc908243e98c1fda35": {
+        "id": "AS_UWI_g5df4ff260f342dc908243e98c1fda35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd25f81bb522488da2f4f5c7de40572b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___he6db309ac24478684e80a4ee31be5c8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismissLoadingScreen",
+            "display": "dismissLoadingScreen",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

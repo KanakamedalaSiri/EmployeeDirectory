@@ -1,0 +1,27 @@
+{
+    "AS_Form_fad6611de20d4ba4830a9fb1f6d5ae26": {
+        "id": "AS_Form_fad6611de20d4ba4830a9fb1f6d5ae26",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "breakpoint"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e14a332418c84398b52682dd93707a6c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nthis.onBreakpointChange2(eventobject, breakpoint);\nthis.view.flxOverlay.setVisibility(false);\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

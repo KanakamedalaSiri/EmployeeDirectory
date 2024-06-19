@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "psd18dbed16e4011e8bfbd290fbe0bfa7d",
+    "_text_": "Email ID",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "string",
+        "value": "28.57%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "psd18dbed16e4011e8bfbd290fbe0bfa7d",
+    "id": "lblEmailId",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "b604a09d3382484f9efbaa8fa218e573",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxEmail",
+    "pf": "frmEmpDetails",
+    "responsiveData": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 19
+}

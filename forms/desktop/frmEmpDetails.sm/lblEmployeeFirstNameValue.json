@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "301px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_skin_": "sf7786d3c48747e7a9fae835bcd45255",
+    "_text_": "First Name",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "psd18dbed16e4011e8bfbd290fbe0bfa7d",
+    "id": "lblEmployeeFirstNameValue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e7a3654c7e354776b374a5a693b0ee0e",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxFirstName",
+    "pf": "frmEmpDetails",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "50%"
+            }
+        }
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

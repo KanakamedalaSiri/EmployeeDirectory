@@ -1,0 +1,32 @@
+{
+  "operationConfig" : {
+    "name" : "createMedia7352",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "public",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "create",
+    "relationshipHierarchyMapping" : {
+      "children" : [ ],
+      "name" : "Media",
+      "actions" : {
+        "partialupdate" : true,
+        "create" : true,
+        "update" : true
+      },
+      "selected" : true
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  },
+  "etag" : "0343d68e-96d1-437d-9b54-1863afc36537",
+  "enableFrontendUrl" : false,
+  "customVerb" : false
+}

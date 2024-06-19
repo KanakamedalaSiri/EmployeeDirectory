@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_pxMenuIndex": [
+        1,
+        1,
+        2
+    ],
+    "_render_": true,
+    "_skin_": "s2c4a3510d2d46ed916006b2a1180301",
+    "_title_": null,
+    "accessibilityconfig": {
+        "a11yNavigationMode": 0
+    },
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        },
+        "render": true
+    },
+    "androidwearos": {
+        "needAppMenu": false
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "flxRoot"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "active": {
+            "channel": "mobile",
+            "folderPath": "",
+            "name": "frmListDetailController"
+        },
+        "default": {
+            "channel": "tablet",
+            "name": "frmListDetailController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPad3",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmListDetail",
+    "ide_init": "AS_Form_ec209d68285c4956b9921d0d246583b3",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": false,
+                "kuid": "e4b08bb022f646df8d678ded2a28895a",
+                "leftBarButtonItems": [],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "j497e4ac3aa6427fb64afa271d61da94",
+                        "style": 0,
+                        "tintColor": "4b88f100",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "4b88f100",
+                "translucent": true
+            }
+        },
+        "render": true,
+        "titleBar": false
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "i4ccd6f3bec74505a0559a277d3a039c",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "platform": "ipad",
+    "prevDevice": "iPad3",
+    "prevPlatform": "ipad",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "needAppMenu": false,
+        "render": true
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "needAppMenu": false,
+        "render": true
+    },
+    "titleBarSkin": "s4f352659e3a4b428ea210066b0b27ef",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false,
+        "render": true
+    }
+}

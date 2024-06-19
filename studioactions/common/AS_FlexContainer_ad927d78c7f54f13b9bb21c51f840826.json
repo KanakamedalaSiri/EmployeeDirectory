@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_ad927d78c7f54f13b9bb21c51f840826": {
+        "id": "AS_FlexContainer_ad927d78c7f54f13b9bb21c51f840826",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "ub6fa345d1d94544a81e90575c96760e",
+            "type": "userwidgets",
+            "name": "userwidgetmodel"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ce7007d1607d4114b5a9ea7d4f543d98",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblDisplaySelectedIndex.isVisible = false;\nthis.view.forceLayout();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

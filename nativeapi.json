@@ -1,0 +1,131 @@
+{
+    "NativeFunctionAPI": {
+        "Android": {
+            "4.0": {
+                "android.accounts-Android-4.0": {
+                    "enable": false,
+                    "filename": "android.accounts-Android-4.0.zip",
+                    "isDefault": false,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "android.accounts",
+                    "url": "D:\\kony\\8.2WS\\.nativebindings\\Android\\4.0\\android.accounts-Android-4.0.zip"
+                },
+                "android.content-Android-4.0": {
+                    "enable": false,
+                    "filename": "android.content-Android-4.0.zip",
+                    "isDefault": false,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "android.content",
+                    "url": "D:\\kony\\8.2WS\\.nativebindings\\Android\\4.0\\android.content-Android-4.0.zip"
+                },
+                "android.net-Android-4.0": {
+                    "enable": false,
+                    "filename": "android.net-Android-4.0.zip",
+                    "isDefault": false,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "android.net",
+                    "url": "D:\\kony\\8.2WS\\.nativebindings\\Android\\4.0\\android.net-Android-4.0.zip"
+                },
+                "android.os-Android-4.0": {
+                    "enable": false,
+                    "filename": "android.os-Android-4.0.zip",
+                    "isDefault": false,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "android.os",
+                    "url": "D:\\kony\\8.2WS\\.nativebindings\\Android\\4.0\\android.os-Android-4.0.zip"
+                },
+                "android.webkit-Android-4.0": {
+                    "enable": false,
+                    "filename": "android.webkit-Android-4.0.zip",
+                    "isDefault": false,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "android.webkit",
+                    "url": "C:\\Users\\e2eq\\KonyVizEWS82GAMay25\\.nativebindings\\Android\\4.0\\android.webkit-Android-4.0.zip"
+                },
+                "java.lang-Android-4.0": {
+                    "enable": false,
+                    "filename": "java.lang-Android-4.0.zip",
+                    "isDefault": false,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "java.lang",
+                    "url": "D:\\kony\\8.2WS\\.nativebindings\\Android\\4.0\\java.lang-Android-4.0.zip"
+                },
+                "Kony_FileStorage-Android-4.0": {
+                    "title": "Kony_FileStorage",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "ci": true,
+                    "isDefault": true,
+                    "filename": "Kony_FileStorage-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SDKCommons-Android-4.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "ci": true,
+                    "isDefault": true,
+                    "filename": "Kony_SDKCommons-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "ci": true,
+                    "isDefault": true,
+                    "filename": "Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "iOS": {
+            "10.0": {},
+            "11.0": {
+                "Kony_FileStorage-iOS-11.0": {
+                    "title": "Kony_FileStorage",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "ci": true,
+                    "isDefault": true,
+                    "filename": "Kony_FileStorage-iOS-11.0.zip",
+                    "nfiversion": "2.0",
+                    "enable": true
+                },
+                "Kony_SDKCommons-iOS-11.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "ci": true,
+                    "isDefault": true,
+                    "filename": "Kony_SDKCommons-iOS-11.0.zip",
+                    "nfiversion": "2.0",
+                    "enable": true
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "ci": true,
+                    "isDefault": true,
+                    "filename": "Kony_SyncV2-iOS-11.0.zip",
+                    "nfiversion": "2.0",
+                    "enable": true
+                }
+            },
+            "14.3": {},
+            "14.0": {}
+        }
+    },
+    "Metadata": {
+        "Version": {
+            "iOS": "3.0"
+        }
+    }
+}

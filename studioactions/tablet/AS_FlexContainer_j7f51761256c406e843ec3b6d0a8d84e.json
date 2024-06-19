@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_j7f51761256c406e843ec3b6d0a8d84e": {
+        "id": "AS_FlexContainer_j7f51761256c406e843ec3b6d0a8d84e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "i4ccd6f3bec74505a0559a277d3a039c",
+            "name": "frmListDetail"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_fe6f5bdb9e5d4717ba3eca71e1a8158e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblDisplaySelectedIndex.isVisible = false;\nthis.view.forceLayout();",
+            "callbackType": null
+        }]
+    }
+}

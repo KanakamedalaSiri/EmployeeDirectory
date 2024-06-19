@@ -1,0 +1,27 @@
+{
+    "AS_Form_fbfe777e101243538de03ea7412f73ff": {
+        "id": "AS_Form_fbfe777e101243538de03ea7412f73ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "breakpoint"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b676d448b3934c829b19d07f8456c4ad",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onBreakpointChange2(eventobject, breakpoint);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "4.45%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10.38%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb06fbc99ff545c7ac75b0bb89d8e6b1",
+    "_top_": {
+        "type": "string",
+        "value": "14.94%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89.23%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Group6",
+        "imgLine",
+        "Messages"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "MessageMenu",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g10a6096d65845a08b0fcf0376ced496",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "menuContainer",
+    "pf": "userwidgetmodel",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_be016ab44361488499fe55a77c77026d": {
+        "id": "AS_FlexContainer_be016ab44361488499fe55a77c77026d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_dd0bbfb45ae2474dba4ab80154013cb9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.createNewEmployee();\n// var navObj = new kony.mvc.Navigation(\"frmEmpDetails\");\n// globEmpOperatioMode = \"add\";\n// navObj.navigate();\n",
+            "callbackType": null
+        }]
+    }
+}

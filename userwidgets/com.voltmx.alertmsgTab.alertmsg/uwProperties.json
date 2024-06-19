@@ -1,0 +1,78 @@
+{
+    "classname": "alertmsg",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "b29f9c6ea9ba4a36816260cbb3bae861",
+                    "paramList": [
+                        {
+                            "name": "title"
+                        }
+                    ],
+                    "propertyKey": "setTitle",
+                    "pw": {
+                        "displayName": "setTitle",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a88a2710142641488cd378e7ca06239c",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "e0c8c905eb894f8b9b5e0f7156efa314",
+                    "paramList": [
+                        {
+                            "name": "msg"
+                        }
+                    ],
+                    "propertyKey": "setMessage",
+                    "pw": {
+                        "displayName": "setMessage",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a88a2710142641488cd378e7ca06239c",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "b49c3f09160d4b928babd612bbecf1fe",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onAlertFlexClick",
+                    "pw": {
+                        "displayName": "onAlertFlexClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a88a2710142641488cd378e7ca06239c",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.voltmx.alertmsgTab",
+    "version": "1.0.0"
+}

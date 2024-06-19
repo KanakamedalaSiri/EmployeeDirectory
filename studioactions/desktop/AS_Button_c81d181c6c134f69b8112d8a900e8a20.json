@@ -1,0 +1,17 @@
+{
+    "AS_Button_c81d181c6c134f69b8112d8a900e8a20": {
+        "id": "AS_Button_c81d181c6c134f69b8112d8a900e8a20",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e64bb7b76040425283c75bb64f04932e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.toggleFilterMob();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "background_color": "77bd43ff",
+    "bg_type": "one",
+    "border_color": "77bd4300",
+    "border_style": "custom",
+    "border_type": 0,
+    "border_width": 1,
+    "desktopweb": {
+        "bottom_left_border_color": "77bd4300",
+        "bottom_left_border_style": "plain",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "77bd4300",
+        "bottom_right_border_style": "plain",
+        "bottom_right_border_width": 1,
+        "customCSS": "cursor:pointer;\n",
+        "isCustomCSSEnabled": true,
+        "isForked": true,
+        "top_left_border_color": "77bd4300",
+        "top_left_border_style": "plain",
+        "top_left_border_width": 1,
+        "top_right_border_color": "77bd4300",
+        "top_right_border_style": "plain",
+        "top_right_border_width": 1
+    },
+    "font_color": "FFFFFFff",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_name": "Helvetica",
+        "font_size": 100,
+        "isForked": false
+    },
+    "kuid": "sf5ead2b9bad46cab15ddd598964f83c",
+    "spaan": {
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "isForked": true
+    },
+    "spaip": {
+        "isForked": true
+    },
+    "spaipad": {
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "isForked": true
+    },
+    "spawinphone8": {
+        "isForked": true
+    },
+    "wType": "Label"
+}

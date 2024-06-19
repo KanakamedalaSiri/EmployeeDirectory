@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_c752f79ba4d9490db0559e601134131e": {
+        "id": "AS_FlexContainer_c752f79ba4d9490db0559e601134131e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psd18840916e4011e8bfbd290fbe0bfa7d",
+            "name": "frmEmpDetails"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f50802294544492884ee40e19e59762f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateLeftMenu",
+            "display": "animateLeftMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

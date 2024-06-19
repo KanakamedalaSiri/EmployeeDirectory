@@ -1,0 +1,23 @@
+{
+    "AS_UWI_b61d91328bad4a8bbd9d14f4f3bd3beb": {
+        "id": "AS_UWI_b61d91328bad4a8bbd9d14f4f3bd3beb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ps5e924bf163d511e8ac507f4fbf9ad319"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d1cb5b468b3743b78c5fe5cb1684aad1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.alertpopup.setVisibility(false);\nif (eventobject.info == \"success\"){\n\tvar navObj = new kony.mvc.Navigation(\"frmEmpList\");\n    navObj.navigate();\n}\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

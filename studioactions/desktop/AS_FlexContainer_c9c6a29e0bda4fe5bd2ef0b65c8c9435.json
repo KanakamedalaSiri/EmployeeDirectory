@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_c9c6a29e0bda4fe5bd2ef0b65c8c9435": {
+        "id": "AS_FlexContainer_c9c6a29e0bda4fe5bd2ef0b65c8c9435",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d940422af7f94d3c80ed9da403f62654",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleFilter",
+            "display": "toggleFilter",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET__d83f9289a7cd4c478a087edf706b5c87",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.toggleFilter(eventobject);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

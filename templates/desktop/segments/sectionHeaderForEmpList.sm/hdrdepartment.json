@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "54.29%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "51.86%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "ps090bc401631111e881e67756e63af01b",
+    "_text_": "Department",
+    "_top_": {
+        "type": "string",
+        "value": "22.86%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20.00%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "ps090bc401631111e881e67756e63af01b",
+    "id": "hdrdepartment",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f0fef8903a2f4a378236327f4e82ba16",
+    "name": "kony.ui.Label",
+    "parent": "flxForSectionHeaderEmpList",
+    "pf": "sectionHeaderForEmpList",
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 2
+}

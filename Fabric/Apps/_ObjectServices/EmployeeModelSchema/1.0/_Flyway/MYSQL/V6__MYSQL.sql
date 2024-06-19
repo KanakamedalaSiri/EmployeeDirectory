@@ -1,0 +1,2 @@
+ALTER TABLE `Employee`
+	ADD CONSTRAINT `3301b7040296fb50d27c73f1ba3847` FOREIGN KEY(`Status_id`) REFERENCES `Status`(`Status_id`);

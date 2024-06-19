@@ -1,0 +1,27 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "00000000",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "fontSizeInPx": true,
+  "font_color": "A8A8A8ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "kuid": "ps7a90f6016efa11e89990638266fc7bf5",
+  "wType": "Label"
+}

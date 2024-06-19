@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<service serviceGroup="" cachable="false" cacheduration="" description="" endpoint="" groupType="" id="getAllDetails" passwordencrypted="" security="public" type="CompositeConnector" smscode="" smsenabled="false">
+    <service-config>
+        <config-param api-version="" appid="" name="exec_type" value="Concurrent"/>
+        <config-param api-version="" appid="" name="postprocessorname" value=""/>
+        <config-param api-version="" appid="" name="postprocessorJS" value=""/>
+        <config-param api-version="" appid="" name="kony_http_supported_methods" value="POST"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Department/get"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Status/get"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Media/get"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Employee/get"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Location/get"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Designation/get"/>
+        <config-param api-version="1.0" appid="EmployeeModelSchema" name="service" value="Contact/get"/>
+    </service-config>
+    <service-input passthrough="false" isExtended="false"/>
+    <service-output passthrough="false" isExtended="false"/>
+</service>

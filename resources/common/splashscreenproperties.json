@@ -1,0 +1,72 @@
+{
+    "splashScreen": {
+        "desktop": {
+            "desktopweb": {
+                "backgroundColor": "123151",
+                "splashImage": "directory.png"
+            },
+            "kiosk": {
+                "splashImage": "directory.png"
+            },
+            "splashImage": "directory.png"
+        },
+        "mobile": {
+            "android": {},
+            "iphone": {
+                "splashConfig": {
+                    "children": [
+                        {
+                            "UIElementType": "imageUIElement",
+                            "contentMode": "scaleToFill",
+                            "height": "100%",
+                            "left": "0dp",
+                            "source": "splash.png",
+                            "top": "0dp",
+                            "visible": true,
+                            "width": "100%"
+                        }
+                    ],
+                    "skin": {
+                        "backgroundColor": "ffffff00"
+                    }
+                }
+            },
+            "spa": {},
+            "spaan": {},
+            "spaip": {},
+            "spawinphone8": {},
+            "splashImage": "voltmx_48.png",
+            "winphone10": {},
+            "winphone8": {}
+        },
+        "tablet": {
+            "android": {},
+            "ipad": {
+                "landscape": {},
+                "splashConfig": {
+                    "children": [
+                        {
+                            "UIElementType": "imageUIElement",
+                            "contentMode": "scaleToFill",
+                            "height": "100%",
+                            "left": "0dp",
+                            "source": "splash.png",
+                            "top": "0dp",
+                            "visible": true,
+                            "width": "100%"
+                        }
+                    ],
+                    "skin": {
+                        "backgroundColor": "ffffff00"
+                    }
+                }
+            },
+            "spa": {},
+            "spaandroidtablet": {},
+            "spaipad": {},
+            "spawindowstablet": {},
+            "splashImage": "voltmx_48.png",
+            "windows8": {}
+        }
+    }
+}

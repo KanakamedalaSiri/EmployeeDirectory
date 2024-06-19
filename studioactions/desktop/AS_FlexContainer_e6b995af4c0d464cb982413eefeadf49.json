@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_e6b995af4c0d464cb982413eefeadf49": {
+        "id": "AS_FlexContainer_e6b995af4c0d464cb982413eefeadf49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___h6965e18786a4514ab1d7d37e7d76c96",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEmpList",
+            "formKUID": "b14b0e33877349078c917130e12fc60f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

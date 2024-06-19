@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_g34729ddab3d41d795ba8c26969fedc9": {
+        "id": "AS_FlexContainer_g34729ddab3d41d795ba8c26969fedc9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ad568dab4eed43baa5be63f0f83104fa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeItem",
+            "display": "removeItem",
+            "inputparams": [{
+                "name": "eventObject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

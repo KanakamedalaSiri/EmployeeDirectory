@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_dedd873825a74402b36ed9f2667b245f": {
+        "id": "AS_FlexContainer_dedd873825a74402b36ed9f2667b245f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fb379284771c426d9e01c4d543ae768d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "processSaveOrEditButton",
+            "display": "processSaveOrEditButton",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "android": {
+        "font_name": "default"
+    },
+    "androidwearos": {
+        "font_name": "default"
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "ipad": {
+        "font_name": "System"
+    },
+    "iphone": {
+        "font_name": "System"
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_name": "None"
+    },
+    "kuid": "sb06fbc99ff545c7ac75b0bb89d8e6b1",
+    "spaan": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaip": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaipad": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "customCSS": "background-color:transparent;\ncursor:pointer;",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "font_name": "default"
+    },
+    "wType": "FlexContainer",
+    "watchos": {
+        "font_name": "System"
+    },
+    "windows8": {
+        "font_name": "None"
+    },
+    "winphone8": {
+        "font_name": "None"
+    }
+}

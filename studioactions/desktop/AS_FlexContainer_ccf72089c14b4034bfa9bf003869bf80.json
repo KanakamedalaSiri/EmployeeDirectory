@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_ccf72089c14b4034bfa9bf003869bf80": {
+        "id": "AS_FlexContainer_ccf72089c14b4034bfa9bf003869bf80",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "ddac3d89a469425fbb97854407ec4a1f",
+            "platform": "",
+            "type": "templates",
+            "name": "CopytemplateEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__j1811bc8a9f3418b962eb5e1eb63c11d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onEditEmployee",
+            "display": "onEditEmployee",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

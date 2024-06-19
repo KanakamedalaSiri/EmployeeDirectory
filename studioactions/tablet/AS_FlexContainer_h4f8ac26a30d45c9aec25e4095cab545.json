@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_h4f8ac26a30d45c9aec25e4095cab545": {
+        "id": "AS_FlexContainer_h4f8ac26a30d45c9aec25e4095cab545",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d72d566ff218421bb54cd29522eeec9d",
+            "name": "frmHome"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j9b6eaef548c4d028fa442d1261aa076",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "voltmx.store.setItem(\"inputType\",\"social\");\nthis.invokeIdentityService(\"reusableOffice365Login\");\n",
+            "callbackType": null
+        }]
+    }
+}

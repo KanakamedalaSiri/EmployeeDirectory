@@ -1,0 +1,2 @@
+ALTER TABLE `Contact`
+	ADD CONSTRAINT `d69a3c50b5879c16220c86bdfe3a9e` FOREIGN KEY(`employee_id`) REFERENCES `Employee`(`Employee_id`) ON DELETE CASCADE;

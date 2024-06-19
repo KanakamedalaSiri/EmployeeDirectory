@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd05ade027a74565859dd02cfffd7c14",
+    "_text_": "Save",
+    "_width_": {
+        "type": "string",
+        "value": "114px"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s63479afb2e34dd9b569c0faa8e78ceb"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s152afde278047bd971b2ad9addf97a5",
+    "id": "btnEdiSaveBottom",
+    "ide_onClick": "AS_Button_b00de17b99154f149d03e3182159e3ed",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bf310a45c0e246df8ea31c61e8cfc265",
+    "name": "kony.ui.Button",
+    "parent": "flxEditSave",
+    "pf": "frmEmpDetails",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

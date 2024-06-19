@@ -1,0 +1,23 @@
+{
+    "AS_Button_i9b6fce75dff4e038dfd8cfc6198eb21": {
+        "id": "AS_Button_i9b6fce75dff4e038dfd8cfc6198eb21",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d72d566ff218421bb54cd29522eeec9d",
+            "name": "frmHome"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bcc5c87e77e248f78cacab0e291fe3db",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.touchCancelAction();",
+            "callbackType": null
+        }]
+    }
+}

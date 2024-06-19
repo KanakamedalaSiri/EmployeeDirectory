@@ -1,0 +1,27 @@
+{
+    "AS_Image_i5aecc00085d47a9889ae0f0fef01d71": {
+        "id": "AS_Image_i5aecc00085d47a9889ae0f0fef01d71",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "ab523cff803a46e0988a272cdc45df1c",
+            "name": "templateEmpList"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

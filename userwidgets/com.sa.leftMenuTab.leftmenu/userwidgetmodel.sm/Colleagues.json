@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "53.66%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25.75%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "ps28b8146163d011e8ac507f4fbf9ad319",
+    "_text_": "Colleagues",
+    "_top_": {
+        "type": "string",
+        "value": "3.49%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "74.25%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "ps28b8146163d011e8ac507f4fbf9ad319",
+    "id": "Colleagues",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "b8eb18d3fa4744e0959ed3654b974d2c",
+    "name": "kony.ui.Label",
+    "parent": "ColleaguesMenuItem",
+    "pf": "userwidgetmodel",
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

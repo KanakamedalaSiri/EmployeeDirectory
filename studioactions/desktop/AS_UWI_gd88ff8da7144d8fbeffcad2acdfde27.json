@@ -1,0 +1,31 @@
+{
+    "AS_UWI_gd88ff8da7144d8fbeffcad2acdfde27": {
+        "id": "AS_UWI_gd88ff8da7144d8fbeffcad2acdfde27",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i78d462d239a4475ac6739af353a1ffe",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleProfile",
+            "display": "toggleProfile",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

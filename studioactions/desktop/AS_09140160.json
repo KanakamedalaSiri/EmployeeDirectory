@@ -1,0 +1,23 @@
+{
+    "AS_09140160": {
+        "id": "AS_09140160",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ps09073021631111e881e67756e63af01b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__09144f80",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony_rotate(kony.application.getCurrentForm().Triangle,-180);kony_rotate(kony.application.getCurrentForm().Fill1140548282486048,-134);kony_rotate(kony.application.getCurrentForm().Triangle,-180);kony_rotate(kony.application.getCurrentForm().Triangle140548190909776,-180);kony_rotate(kony.application.getCurrentForm().Triangle140548342273008,-180);kony_rotate(kony.application.getCurrentForm().Fill1140548216840592,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190068592,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190069168,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190069744,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190070320,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190070896,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190071472,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190072048,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190072624,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548190073200,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548292651024,-134);kony_rotate(kony.application.getCurrentForm().Fill1140548292651024,-134);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmtAPI",
+    "ide_onRowClick": "AS_Segment_f4aba72c55a74a019f72161199eea78c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ff8d25a8d8cf434ea091ea4515aa21b1",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            }
+        ],
+        "rowTemplateId": "e86bf29cbbcd4a1bb29f2854b76a11cd",
+        "rowtemplate": "flexAPIs",
+        "widgetdatamap": {
+            "flexAPIs": "flexAPIs",
+            "flexFreeAPI": "flexFreeAPI",
+            "imgLeftAPI": "imgLeftAPI",
+            "lblDummy": "lblDummy",
+            "lblNameOfAPI": "lblNameOfAPI"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_3_1.png",
+    "pageondotimage": "pageondot_3_1.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSegData",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 9,
+    "rowfocusskin": "sbcc7b2d6ae14f83bdde659ef7d12120",
+    "rowskin": "s8be6ffe0f81479fa1717ac1fc43ffb9",
+    "rowtemplate": "CopyflexAPIs",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s274718c0fee42d7a817324f80cfd67e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "tablet": {
+        "_data_": [
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgLeftAPI": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "chevron_1.png"
+                },
+                "lblDummy": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblNameOfAPI": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            }
+        ],
+        "rowTemplateId": "d72a2bd1305e48bb9d03c8c6a7cc9c2b",
+        "rowtemplate": "CopyflexAPIs0fbd5c7ed80e249",
+        "widgetdatamap": {
+            "CopyflexAPIs0fbd5c7ed80e249": "CopyflexAPIs0fbd5c7ed80e249",
+            "flexFreeAPI": "flexFreeAPI",
+            "imgLeftAPI": "imgLeftAPI",
+            "lblDummy": "lblDummy",
+            "lblNameOfAPI": "lblNameOfAPI"
+        }
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflexAPIs0fbd5c7ed80e249": "CopyflexAPIs0fbd5c7ed80e249",
+        "flexFreeAPI": "flexFreeAPI",
+        "imgLeftAPI": "imgLeftAPI",
+        "lblDummy": "lblDummy",
+        "lblNameOfAPI": "lblNameOfAPI"
+    },
+    "zindex": 1
+}

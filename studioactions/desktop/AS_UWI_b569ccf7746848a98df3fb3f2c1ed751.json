@@ -1,0 +1,21 @@
+{
+    "AS_UWI_b569ccf7746848a98df3fb3f2c1ed751": {
+        "id": "AS_UWI_b569ccf7746848a98df3fb3f2c1ed751",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__iad9bf5dc50241e9a19adb042b1e7f64",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideALertComponentCallBack();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

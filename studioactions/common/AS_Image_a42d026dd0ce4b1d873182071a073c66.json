@@ -1,0 +1,24 @@
+{
+    "AS_Image_a42d026dd0ce4b1d873182071a073c66": {
+        "id": "AS_Image_a42d026dd0ce4b1d873182071a073c66",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f231efea1e3f4003b5923436dfc532db",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideAlert();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

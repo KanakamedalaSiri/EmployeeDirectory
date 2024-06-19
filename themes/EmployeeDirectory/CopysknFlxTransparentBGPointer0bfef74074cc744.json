@@ -1,0 +1,97 @@
+{
+    "android": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    },
+    "androidwearos": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "font_name": "default",
+        "isForked": true
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "ipad": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    },
+    "iphone": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    },
+    "kuid": "s84f928c2f6043e1a71caa79a557f0b0",
+    "spaan": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaip": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaipad": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    },
+    "wType": "FlexContainer",
+    "watchos": {
+        "font_name": "System"
+    },
+    "windows8": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    },
+    "winphone8": {
+        "background_color": "77bd4300",
+        "bg_type": "one",
+        "isForked": true
+    }
+}

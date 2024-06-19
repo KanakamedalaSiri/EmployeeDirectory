@@ -1,0 +1,30 @@
+{
+  "background_color": "77bd43ff",
+  "bg_type": "one",
+  "border_color": "77bd4300",
+  "border_radius": 66,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "desktopweb": {
+    "customCSS": "cursor:pointer;\nbackground-color:#77BD43;",
+    "font_name": "Avenir-Medium",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "FFFFFFff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "kuid": "sdf2a775d05d49788f8f74a8ae83cbae",
+  "wType": "Label"
+}

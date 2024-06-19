@@ -1,0 +1,20 @@
+{
+    "AS_TextField_e9a5fd77c2764995ba7bf75b328f149c": {
+        "id": "AS_TextField_e9a5fd77c2764995ba7bf75b328f149c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_aff74d69b47c4ee4ba6906b1e8367ec7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//kony.print(\"changedtext is :\"+changedtext);\nvar searchStr = eventobject.text;\nthis.processSearch(searchStr);",
+            "callbackType": null
+        }]
+    }
+}

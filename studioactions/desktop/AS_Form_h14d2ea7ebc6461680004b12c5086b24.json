@@ -1,0 +1,25 @@
+{
+    "AS_Form_h14d2ea7ebc6461680004b12c5086b24": {
+        "id": "AS_Form_h14d2ea7ebc6461680004b12c5086b24",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bc1067e8d1a145c889555263387b8019",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//this.view.segEmployeeList.setData(empData);\nif (this.employee == undefined || this.employee === null  || globRefreshData == true){\n  this.view.segEmployeeList.removeAll();\n  this.fetchAllDetails();\n  globRefreshData = false;\n}\n",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }]
+    }
+}

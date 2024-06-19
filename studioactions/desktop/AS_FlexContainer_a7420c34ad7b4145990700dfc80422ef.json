@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_a7420c34ad7b4145990700dfc80422ef": {
+        "id": "AS_FlexContainer_a7420c34ad7b4145990700dfc80422ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ps5e924bf163d511e8ac507f4fbf9ad319"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f0f13f7d2fc343d99b35ee3bcdf4f41e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var querycontext = {mimetype:\"image/png\"};\nreturnStatus = kony.phone.openMediaGallery(this.processImageSelection, querycontext);\n//var config = {\n  //      selectMultipleFiles: false,        \n    //    filter: [\"image/png\", \"image/jpeg\"]\n    //};\n//kony.io.FileSystem.browse(config, this.processImageSelection.bind(this));\n//this.processImageSelection(\"\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

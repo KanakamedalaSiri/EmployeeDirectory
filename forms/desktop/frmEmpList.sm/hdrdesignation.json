@@ -1,0 +1,126 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "32%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0c8e9e0aa9548768f93ca6c44464f01",
+    "_text_": "DESIGNATION",
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "se461a51d5a145cfb01b4bfdc404635e",
+    "id": "hdrdesignation",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "j410cbe9336c4519a58db525c6dfa649",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxEmpListHeader",
+    "pf": "frmEmpList",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "26%"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "35%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "30%"
+            }
+        },
+        "b3415566913": {
+            "width": {
+                "type": "string",
+                "value": "22%"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "left": {
+                "type": "string",
+                "value": "47%"
+            },
+            "width": {
+                "type": "string",
+                "value": "40%"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "27%"
+            }
+        }
+    },
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

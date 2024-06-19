@@ -1,0 +1,90 @@
+{
+    "classname": "alertmsg",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "g57b458e14ea40ed8a95961229d6169b",
+                    "paramList": [
+                        {
+                            "name": "title"
+                        }
+                    ],
+                    "propertyKey": "setTitle",
+                    "pw": {
+                        "displayName": "setTitle",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dca8ce1c40194c498c6df02458cefab4",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "jdd436c633724a5081c8083b23f0da63",
+                    "paramList": [
+                        {
+                            "name": "msg"
+                        }
+                    ],
+                    "propertyKey": "setMessage",
+                    "pw": {
+                        "displayName": "setMessage",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dca8ce1c40194c498c6df02458cefab4",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "h54d53ff030a48a58abd684b5356f9de",
+                    "paramList": [],
+                    "propertyKey": "setUIForChannel",
+                    "pw": {
+                        "displayName": "setUIForChannel",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dca8ce1c40194c498c6df02458cefab4",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "d613a056828f4fc09d030ba835cd89c0",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onAlertFlexClick",
+                    "pw": {
+                        "displayName": "onAlertFlexClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dca8ce1c40194c498c6df02458cefab4",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.voltmx.alertmsg",
+    "version": "1.0.0"
+}

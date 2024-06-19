@@ -1,0 +1,24 @@
+{
+    "AS_Button_j1d1039aa86d49609975db187fb56503": {
+        "id": "AS_Button_j1d1039aa86d49609975db187fb56503",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "platform": "",
+            "type": "forms",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hd50eb15bf7a4daa87f74ab86dec9d3d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " this.createNewEmployee();\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

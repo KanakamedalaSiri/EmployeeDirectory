@@ -1,0 +1,599 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "department": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Admin"
+            },
+            "designation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "IT Administrator"
+            },
+            "empID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234"
+            },
+            "empimage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newempdefaultimageicon.png"
+            },
+            "empimagemask": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "profilimagemask_1.png"
+            },
+            "fullName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jeremiah Crosman"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon_1.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon_1.png"
+            }
+        },
+        {
+            "department": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Admin"
+            },
+            "designation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "IT Administrator"
+            },
+            "empID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234"
+            },
+            "empimage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newempdefaultimageicon.png"
+            },
+            "empimagemask": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "profilimagemask_1.png"
+            },
+            "fullName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jeremiah Crosman"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon_1.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon_1.png"
+            }
+        },
+        {
+            "department": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Admin"
+            },
+            "designation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "IT Administrator"
+            },
+            "empID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234"
+            },
+            "empimage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newempdefaultimageicon.png"
+            },
+            "empimagemask": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "profilimagemask_1.png"
+            },
+            "fullName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jeremiah Crosman"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon_1.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon_1.png"
+            }
+        },
+        {
+            "department": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Admin"
+            },
+            "designation": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "IT Administrator"
+            },
+            "empID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234"
+            },
+            "empimage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "newempdefaultimageicon.png"
+            },
+            "empimagemask": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "profilimagemask_1.png"
+            },
+            "fullName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jeremiah Crosman"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon_1.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon_1.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "-15"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segEmployeeList",
+    "ide_onRowClick": "AS_Segment_c4a2518e57c44fb7a31977f35340c512",
+    "ide_onTouchEnd": "AS_Segment_a36db9b5894c4a58a9d8c1ebc524bf49",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hfcb9f06dda64ae9a81269d1682f60ca",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSegMentContainer",
+    "pf": "frmEmpList",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "right": {
+                "type": "number",
+                "value": "-170"
+            },
+            "top": {
+                "type": "string",
+                "value": "0%"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3415566913": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "right": {
+                "type": "number",
+                "value": "350"
+            },
+            "top": {
+                "type": "string",
+                "value": "0.06%"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "data": [
+                {
+                    "department": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Admin"
+                    },
+                    "designation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "IT Administrator"
+                    },
+                    "empID": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1234"
+                    },
+                    "empimage": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empdefaultimageicon_1.png"
+                    },
+                    "empimagemask": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "newtranscircular_1.png"
+                    },
+                    "fullName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Jeremiah Crosman"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empediticon_1.png"
+                    },
+                    "imgRemove": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empremoveicon_1.png"
+                    }
+                },
+                {
+                    "department": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Admin"
+                    },
+                    "designation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "IT Administrator"
+                    },
+                    "empID": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1234"
+                    },
+                    "empimage": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empdefaultimageicon_1.png"
+                    },
+                    "empimagemask": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "newtranscircular_1.png"
+                    },
+                    "fullName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Jeremiah Crosman"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empediticon_1.png"
+                    },
+                    "imgRemove": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empremoveicon_1.png"
+                    }
+                },
+                {
+                    "department": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Admin"
+                    },
+                    "designation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "IT Administrator"
+                    },
+                    "empID": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1234"
+                    },
+                    "empimage": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empdefaultimageicon_1.png"
+                    },
+                    "empimagemask": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "newtranscircular_1.png"
+                    },
+                    "fullName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Jeremiah Crosman"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empediticon_1.png"
+                    },
+                    "imgRemove": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empremoveicon_1.png"
+                    }
+                },
+                {
+                    "department": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Admin"
+                    },
+                    "designation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "IT Administrator"
+                    },
+                    "empID": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1234"
+                    },
+                    "empimage": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empdefaultimageicon_1.png"
+                    },
+                    "empimagemask": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "newtranscircular_1.png"
+                    },
+                    "fullName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Jeremiah Crosman"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empediticon_1.png"
+                    },
+                    "imgRemove": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "empremoveicon_1.png"
+                    }
+                }
+            ],
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "rowTemplate": "ddac3d89a469425fbb97854407ec4a1f",
+            "sectionHeaderTemplate": null,
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "widgetDataMap": {
+                "CopyflxTemplateEmpList": "CopyflxTemplateEmpList",
+                "department": "department",
+                "designation": "designation",
+                "empID": "empID",
+                "empimage": "empimage",
+                "empimagemask": "empimagemask",
+                "flxEdit": "flxEdit",
+                "flxRemove": "flxRemove",
+                "fullName": "fullName",
+                "imgEdit": "imgEdit",
+                "imgRemove": "imgRemove",
+                "userIon": "userIon"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ddac3d89a469425fbb97854407ec4a1f",
+    "rowcounter": 3,
+    "rowfocusskin": "sd510816b55843cf907d01b6c2157f77",
+    "rowskin": "s9da3c6fcf684b6aa6c6415460f56f07",
+    "rowtemplate": "CopyflxTemplateEmpList",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "sb125d2cf8c84b02aab462bd2aa033c6",
+    "sectionheadertemplate": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f0f0f000",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxTemplateEmpList": "CopyflxTemplateEmpList",
+        "department": "department",
+        "designation": "designation",
+        "empID": "empID",
+        "empimage": "empimage",
+        "empimagemask": "empimagemask",
+        "flxEdit": "flxEdit",
+        "flxRemove": "flxRemove",
+        "fullName": "fullName",
+        "imgEdit": "imgEdit",
+        "imgRemove": "imgRemove",
+        "userIon": "userIon"
+    },
+    "zindex": 1
+}

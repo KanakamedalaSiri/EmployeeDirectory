@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_f96a87839f284d22b6bed40355fb3152": {
+        "id": "AS_FlexContainer_f96a87839f284d22b6bed40355fb3152",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": null,
+            "KUID": "a4e506c34e874f9ba4db27642e79d4a1",
+            "name": "sectionHeaderForEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_i5ce58ea3652423db375594adef64304",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"clicked the remove icon in the segment\");\nthis.executeOnParent(\"processRemoveIcon\",context.widgetInfo.selecteditems[0]);\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Image_ec97ced1f6174e9aa3bb59f9b1b4f55f": {
+        "id": "AS_Image_ec97ced1f6174e9aa3bb59f9b1b4f55f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": null,
+            "KUID": "a4e506c34e874f9ba4db27642e79d4a1",
+            "name": "sectionHeaderForEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_hc5f98545c1040f28e7a0598a023e3aa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "callbackType": null
+        }]
+    }
+}

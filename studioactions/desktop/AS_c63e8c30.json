@@ -1,0 +1,23 @@
+{
+    "AS_c63e8c30": {
+        "id": "AS_c63e8c30",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "psc5f1a4b163d211e8ac507f4fbf9ad319"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c63eb340",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony_rotate(kony.application.getCurrentForm().Triangle,-180);kony_rotate(kony.application.getCurrentForm().Triangle140369811683488,-180);kony_rotate(kony.application.getCurrentForm().Triangle140369810607200,-180);kony_rotate(kony.application.getCurrentForm().Fill1140369811841056,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811841632,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811842208,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811842784,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811843360,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811843936,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811844512,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811845088,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811845664,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811846240,-134);kony_rotate(kony.application.getCurrentForm().Triangle,-180);kony_rotate(kony.application.getCurrentForm().Triangle140369811855440,-180);kony_rotate(kony.application.getCurrentForm().Triangle140369810600448,-180);kony_rotate(kony.application.getCurrentForm().Fill1140369811875456,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811876032,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811876608,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811877184,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811877760,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811878336,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811878912,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811879488,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811880064,-134);kony_rotate(kony.application.getCurrentForm().Fill1140369811880640,-134);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

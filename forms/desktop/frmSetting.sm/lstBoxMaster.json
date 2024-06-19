@@ -1,0 +1,108 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "63px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s357859c95a14884ba894f91cc2dc6e4",
+    "_width_": {
+        "type": "string",
+        "value": "374px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s357859c95a14884ba894f91cc2dc6e4",
+    "groupcells": false,
+    "id": "lstBoxMaster",
+    "ide_onSelection": "AS_ListBox_d5d5fa572b0d432eadb553da25218390",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jf3a5195891444b4a02d2e454d9da5e7",
+    "masterdata": [
+        [
+            "0",
+            "Department"
+        ],
+        [
+            "1",
+            "Designation"
+        ],
+        [
+            "2",
+            "Location"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxDropDown",
+    "pf": "frmSetting",
+    "responsiveData": {
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "95%"
+            },
+            "left": {
+                "type": "string",
+                "value": "30%"
+            },
+            "width": {
+                "type": "string",
+                "value": "70%"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "25%"
+            },
+            "width": {
+                "type": "string",
+                "value": "75%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "0",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "0",
+        "Department"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

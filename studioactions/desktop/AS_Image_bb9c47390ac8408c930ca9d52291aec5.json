@@ -1,0 +1,23 @@
+{
+    "AS_Image_bb9c47390ac8408c930ca9d52291aec5": {
+        "id": "AS_Image_bb9c47390ac8408c930ca9d52291aec5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_b3c40908eed8496f875ef4f9eb658f13",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxFilterMain.setVisibility(false);",
+            "callbackType": null
+        }]
+    }
+}

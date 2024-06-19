@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s6cdb1fcc1dd48ebacbc0a686dc29bd9",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 0,
+    "data": {
+        "ide_onAlertFlexClick": "AS_UWI_c461c3cbdfc141278c12f02d116ae401",
+        "onAlertFlexClick": "AS_UWI_c461c3cbdfc141278c12f02d116ae401"
+    },
+    "id": "alertmsg",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ff325d2ad95f4877a93d9b68d443b4a8",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "onclick": "AS_FlexContainer_d3c5ffe2b0a34bd1860b4bccf759c62a",
+    "parent": "flxAlertMasterContainer",
+    "pf": "frmSetting",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "sourceUserWidget": "dca8ce1c40194c498c6df02458cefab4",
+    "wType": "UserWidgetInstance"
+}

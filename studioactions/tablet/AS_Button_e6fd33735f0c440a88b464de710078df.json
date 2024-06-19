@@ -1,0 +1,23 @@
+{
+    "AS_Button_e6fd33735f0c440a88b464de710078df": {
+        "id": "AS_Button_e6fd33735f0c440a88b464de710078df",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "i4ccd6f3bec74505a0559a277d3a039c",
+            "name": "frmListDetail"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ed9f2e485ad14e42be16ca3c7e20c552",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var nav = new kony.mvc.Navigation(\"frmKnowledgeFramework\");\n        nav.navigate();",
+            "callbackType": null
+        }]
+    }
+}

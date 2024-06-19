@@ -1,0 +1,54 @@
+{
+  "operationConfig" : {
+    "name" : "createLocation2031",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "public",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "create",
+    "relationshipHierarchyMapping" : {
+      "children" : [ {
+        "actionsAllSelected" : true,
+        "children" : [ {
+          "actionsAllSelected" : true,
+          "children" : [ ],
+          "name" : "Contact",
+          "actions" : {
+            "partialupdate" : true,
+            "create" : true,
+            "update" : true
+          },
+          "actionsPartiallySelected" : false,
+          "selected" : true
+        } ],
+        "name" : "Employee",
+        "actions" : {
+          "partialupdate" : true,
+          "create" : true,
+          "update" : true
+        },
+        "actionsPartiallySelected" : false,
+        "selected" : true
+      } ],
+      "name" : "Location",
+      "actions" : {
+        "partialupdate" : true,
+        "create" : true,
+        "update" : true
+      },
+      "selected" : true
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  },
+  "etag" : "25b6ccb9-ac23-4ab9-a510-120f7d077ff0",
+  "enableFrontendUrl" : false,
+  "customVerb" : false
+}

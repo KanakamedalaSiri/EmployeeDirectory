@@ -1,0 +1,214 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "s87faf2e150f48aaaa970200f2f23b7b",
+    "_text_": "Location",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "psd18dbed16e4011e8bfbd290fbe0bfa7d",
+    "id": "lblLocationValue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "textStyle": {
+            "baseline": 0,
+            "letterSpacing": "0",
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "c033b433987b41798c7c3348dfaf41af",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxLocation",
+    "pf": "frmEmpDetails",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b2": {
+            "contentAlignment": 1,
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "right": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "skin": "saab0438ce034dafa62032598e8351ae",
+            "width": {
+                "type": "string",
+                "value": "48%"
+            }
+        },
+        "b2996792463": {
+            "height": {
+                "type": "string",
+                "value": "90%"
+            },
+            "left": {
+                "type": "string",
+                "value": "301px"
+            },
+            "width": {
+                "type": "string",
+                "value": "55%"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": "2%"
+            },
+            "contentAlignment": 4,
+            "height": {
+                "type": "string",
+                "value": "96%"
+            },
+            "left": {
+                "type": "string",
+                "value": "301px"
+            },
+            "right": {
+                "type": "string",
+                "value": "3dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "2%"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b3285039728": {
+            "height": {
+                "type": "string",
+                "value": "90%"
+            },
+            "left": {
+                "type": "string",
+                "value": "301px"
+            },
+            "right": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "95%"
+            },
+            "left": {
+                "type": "string",
+                "value": "301px"
+            },
+            "right": {
+                "type": "string",
+                "value": "2%"
+            },
+            "width": {
+                "type": "string",
+                "value": "60%"
+            }
+        },
+        "b5": {
+            "height": {
+                "type": "string",
+                "value": "90%"
+            },
+            "left": {
+                "type": "string",
+                "value": "301px"
+            },
+            "right": {
+                "type": "string",
+                "value": "4dp"
+            },
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        }
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 20
+}

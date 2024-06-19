@@ -1,0 +1,33 @@
+{
+  "operationConfig" : {
+    "name" : "updateMedia9472",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "public",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "update",
+    "relationshipHierarchyMapping" : {
+      "children" : [ ],
+      "name" : "Media",
+      "actions" : {
+        "create" : true,
+        "update" : true,
+        "partialupdate" : true,
+        "delete" : true
+      },
+      "selected" : true
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  },
+  "etag" : "2804e264-6d73-43e8-bad2-ee9122e22efb",
+  "enableFrontendUrl" : false,
+  "customVerb" : false
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_fb1189a270a945e9aac24334f220ac08": {
+        "id": "AS_FlexContainer_fb1189a270a945e9aac24334f220ac08",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_gb00c638baa5452ca0ac7eb8ac53734c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onFlxDepartmentClick(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

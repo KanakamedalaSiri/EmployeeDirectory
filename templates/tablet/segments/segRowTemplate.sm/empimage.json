@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s667f01a5f7b45d09e5836b96a7e2ec0",
+    "_src_": "user_profile.png",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "id": "empimage",
+    "imagescalemode": 0,
+    "info": null,
+    "invokedProperty": "src",
+    "ipad": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "hfa52b6b28c74470b6a3e2105a816cff",
+    "name": "kony.ui.Image2",
+    "parent": "flxImageHolder",
+    "pf": "segRowTemplate",
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "windows8": {
+        "render": true
+    }
+}

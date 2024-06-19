@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_c92eaf7cab8049fe8e319b6c611a9a47": {
+        "id": "AS_FlexContainer_c92eaf7cab8049fe8e319b6c611a9a47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "c28ed57227824a439889454f83d9a8ce",
+            "name": "templateEmpListTab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h852ab95cfa24f0ea3df6be9a278b7f0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSegmentData",
+            "display": "showSegmentData",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

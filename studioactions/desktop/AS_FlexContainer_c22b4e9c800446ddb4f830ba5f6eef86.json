@@ -1,0 +1,43 @@
+{
+    "AS_FlexContainer_c22b4e9c800446ddb4f830ba5f6eef86": {
+        "id": "AS_FlexContainer_c22b4e9c800446ddb4f830ba5f6eef86",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "de1f832826e64422aff1d53a489dc4c9",
+            "name": "segTempRowCommonMaster"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i90dc9727b044e00ac952b0cc70734aa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onEdit(eventobject, context);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___beb69ad4cea34e109a2b5fbdb60a8447",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onEdit",
+            "display": "onEdit",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }]
+    }
+}

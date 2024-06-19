@@ -1,0 +1,47 @@
+{
+    "classname": "empheader",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "iefea143ccac44609b8bd1c625baa97f",
+                    "paramList": [
+                        {
+                            "name": "eventobject"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "onUserFlxClick",
+                    "pw": {
+                        "displayName": "onUserFlxClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "abde30fee93341319e4ae0fca45de0e8",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.voltmxsa",
+    "version": "1.0.0"
+}

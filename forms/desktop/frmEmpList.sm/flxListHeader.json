@@ -1,0 +1,100 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa884459b5304b5d9b4b909bf068e617",
+    "_top_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxBtnAddNewEmployee",
+        "EmployeeListDire"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "focusskin": "sa884459b5304b5d9b4b909bf068e617",
+    "id": "flxListHeader",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ba2a1126882d40abb99e892f6fb85579",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxList",
+    "pf": "frmEmpList",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "7%"
+            }
+        },
+        "b2": {
+            "layoutType": 2,
+            "left": {
+                "type": "string",
+                "value": "0%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "7%"
+            }
+        },
+        "b3415566913": {
+            "height": {
+                "type": "string",
+                "value": "6%"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "5%"
+            },
+            "left": {
+                "type": "number",
+                "value": "0"
+            }
+        },
+        "b5": {
+            "height": {
+                "type": "string",
+                "value": "6%"
+            }
+        }
+    },
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 25
+}

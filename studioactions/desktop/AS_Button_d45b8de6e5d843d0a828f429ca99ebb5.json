@@ -1,0 +1,24 @@
+{
+    "AS_Button_d45b8de6e5d843d0a828f429ca99ebb5": {
+        "id": "AS_Button_d45b8de6e5d843d0a828f429ca99ebb5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g3d7543d83bd44edb9945b0a8e7672b7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.createUpdateLocation();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

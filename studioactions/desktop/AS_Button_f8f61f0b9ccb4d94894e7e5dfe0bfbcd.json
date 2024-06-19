@@ -1,0 +1,21 @@
+{
+    "AS_Button_f8f61f0b9ccb4d94894e7e5dfe0bfbcd": {
+        "id": "AS_Button_f8f61f0b9ccb4d94894e7e5dfe0bfbcd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b1dd43acecbd4370bdc2b95f8ca65ab2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeUIForEditMode",
+            "display": "changeUIForEditMode",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

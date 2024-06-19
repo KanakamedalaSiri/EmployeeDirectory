@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "4.35%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10.38%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "psfbaa6b3163cf11e8ac507f4fbf9ad319",
+    "_src_": "imgline140369810555920.png",
+    "_top_": {
+        "type": "string",
+        "value": "95.65%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81.92%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "focusskin": "psfbaa6b3163cf11e8ac507f4fbf9ad319",
+    "id": "imgLine2",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "c947ad2fb33a470fb586553db2239d2e",
+    "name": "kony.ui.Image2",
+    "parent": "DirectoryMenuItemMouseover",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 0
+}

@@ -1,0 +1,20 @@
+{
+    "AS_TextField_e171bf4d33264c9a91124b6748533848": {
+        "id": "AS_TextField_e171bf4d33264c9a91124b6748533848",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_db5a358057af42b5add2475348d79a95",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.doUserStoreLogin(this.view.txtUser.text,this.view.txtPassWord.text);",
+            "callbackType": null
+        }]
+    }
+}

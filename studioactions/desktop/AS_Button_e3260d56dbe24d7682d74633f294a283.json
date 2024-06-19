@@ -1,0 +1,17 @@
+{
+    "AS_Button_e3260d56dbe24d7682d74633f294a283": {
+        "id": "AS_Button_e3260d56dbe24d7682d74633f294a283",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_cf0218e199f1452eb58971efb0384ce6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " this.createNewEmployee();\n\n",
+            "callbackType": null
+        }]
+    }
+}

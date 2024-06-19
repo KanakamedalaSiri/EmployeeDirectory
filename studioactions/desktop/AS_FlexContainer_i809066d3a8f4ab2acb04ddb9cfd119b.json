@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_i809066d3a8f4ab2acb04ddb9cfd119b": {
+        "id": "AS_FlexContainer_i809066d3a8f4ab2acb04ddb9cfd119b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_h1cf042f4b8d4642996d0ec4f50ecd11",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "editItem",
+            "display": "editItem",
+            "inputparams": [{
+                "name": "eventObject"
+            }],
+            "callbackType": null,
+            "disabled": false,
+            "source": "controller"
+        }]
+    }
+}

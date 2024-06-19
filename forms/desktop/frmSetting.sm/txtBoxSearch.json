@@ -1,0 +1,112 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Search",
+    "_skin_": "s54f0e44e91548d58e77b3cd39a7f09a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "9dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {},
+    "disabledSkins": {
+        "placeholderSkin": "s6c4aeaefb52498db75198a8015a9aa7"
+    },
+    "focusskin": "s2bac36822f742f88f8d947a275a5ec0",
+    "id": "txtBoxSearch",
+    "ide_onDone": "AS_TextField_a87dda1f114e48b08df77a965b423330",
+    "ide_onTextChange": "AS_TextField_b1124cd29221441498bc106460120707",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "hb6f0b045d2c4e5cbdd57f5edf634ab8",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxSearch",
+    "pf": "frmSetting",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "21px"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "30px"
+            },
+            "width": {
+                "type": "string",
+                "value": "95%"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "0px"
+            },
+            "padding": [
+                8,
+                0,
+                0,
+                0
+            ],
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

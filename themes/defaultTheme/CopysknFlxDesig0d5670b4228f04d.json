@@ -1,0 +1,81 @@
+{
+    "android": {
+        "font_name": "default"
+    },
+    "androidwearos": {
+        "font_name": "default"
+    },
+    "background_color": "c9c3c900",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "ipad": {
+        "font_name": "System"
+    },
+    "iphone": {
+        "font_name": "System"
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_name": "None",
+        "isForked": true
+    },
+    "kuid": "s2e9d4ea25cc4d46b11a6a9b220a50d9",
+    "spaan": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaip": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaipad": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "customCSS": "::-webkit-scrollbar { \n    display: none; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "font_name": "default"
+    },
+    "wType": "FlexContainer",
+    "watchos": {
+        "font_name": "System"
+    },
+    "windows8": {
+        "font_name": "None"
+    },
+    "winphone8": {
+        "font_name": "None"
+    }
+}

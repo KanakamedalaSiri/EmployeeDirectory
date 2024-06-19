@@ -1,0 +1,193 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon.png"
+            },
+            "imgSave": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "save.png"
+            },
+            "lblId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Alabama"
+            },
+            "txtBoxName": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": "Hello World"
+            }
+        },
+        {
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon.png"
+            },
+            "imgSave": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "save.png"
+            },
+            "lblId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Alabama"
+            },
+            "txtBoxName": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": "Hello World"
+            }
+        },
+        {
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empediticon.png"
+            },
+            "imgRemove": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "empremoveicon.png"
+            },
+            "imgSave": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "save.png"
+            },
+            "lblId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Alabama"
+            },
+            "txtBoxName": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": "Hello World"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "62%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segMaster",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "abea2ae3a00545f9ac04094e7eeee592",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContentMaster",
+    "pf": "frmSetting",
+    "responsiveData": {
+        "b4": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "de1f832826e64422aff1d53a489dc4c9",
+    "rowcounter": 2,
+    "rowfocusskin": "s1db3da8974843d2a5ee5a9a8d47f58d",
+    "rowskin": "s433e0ab74184ceb9b1f7fb231b1430d",
+    "rowtemplate": "flxRoot",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sb125d2cf8c84b02aab462bd2aa033c6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f0f0f000",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxEdit": "flxEdit",
+        "flxRemove": "flxRemove",
+        "flxRoot": "flxRoot",
+        "flxSave": "flxSave",
+        "imgEdit": "imgEdit",
+        "imgRemove": "imgRemove",
+        "imgSave": "imgSave",
+        "lblId": "lblId",
+        "lblName": "lblName",
+        "txtBoxName": "txtBoxName"
+    },
+    "zindex": 1
+}

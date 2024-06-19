@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_e3a8d8ea99124d338b58d03f547dfb01": {
+        "id": "AS_FlexContainer_e3a8d8ea99124d338b58d03f547dfb01",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "ddac3d89a469425fbb97854407ec4a1f",
+            "platform": "",
+            "type": "templates",
+            "name": "CopytemplateEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__edaf811879014115a48287069819d282",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRemoveEmployee",
+            "display": "onRemoveEmployee",
+            "inputparams": [{
+                "name": "widget",
+                "value": ""
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

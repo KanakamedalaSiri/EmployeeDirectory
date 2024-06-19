@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_skin_": "s0aec4d3990645f8ac32928cbe3f6563",
+    "_width_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "60%"
+    },
+    "children": [
+        "imgWork"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxWorkImageHolder",
+    "ide_onClick": "AS_FlexContainer_de06731104394227b49eb2c2c460dd21",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fab8a5a5f2e14e69a2d7415de7626854",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "callWorkFlex",
+    "pf": "userwidgetmodel",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

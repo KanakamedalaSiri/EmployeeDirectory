@@ -1,0 +1,16 @@
+{
+  "assets" : [ {
+    "name" : "EmployeeModelSchema (2).zip",
+    "type" : "sampleData",
+    "mapType" : "java.util.HashMap",
+    "empty" : true
+  } ],
+  "config" : {
+    "metadataSecurity" : "public",
+    "offline" : false,
+    "uploadCache" : false,
+    "conflict_policy" : "none"
+  },
+  "mapType" : "java.util.HashMap",
+  "empty" : true
+}

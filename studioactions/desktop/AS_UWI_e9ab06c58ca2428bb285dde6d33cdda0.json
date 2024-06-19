@@ -1,0 +1,17 @@
+{
+    "AS_UWI_e9ab06c58ca2428bb285dde6d33cdda0": {
+        "id": "AS_UWI_e9ab06c58ca2428bb285dde6d33cdda0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onAlertFlexClick_e0870657c00349fe93c230a09acd8171",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideALertComponentCallBack();",
+            "callbackType": null
+        }]
+    }
+}

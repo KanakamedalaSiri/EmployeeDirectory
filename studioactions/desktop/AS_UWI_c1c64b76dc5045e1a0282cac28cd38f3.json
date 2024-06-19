@@ -1,0 +1,21 @@
+{
+    "AS_UWI_c1c64b76dc5045e1a0282cac28cd38f3": {
+        "id": "AS_UWI_c1c64b76dc5045e1a0282cac28cd38f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bd25c3aecda64ba283840bd42d8c7ada",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideALertComponentCallBack();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

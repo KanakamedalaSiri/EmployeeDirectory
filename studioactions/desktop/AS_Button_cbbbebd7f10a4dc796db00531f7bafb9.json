@@ -1,0 +1,34 @@
+{
+    "AS_Button_cbbbebd7f10a4dc796db00531f7bafb9": {
+        "id": "AS_Button_cbbbebd7f10a4dc796db00531f7bafb9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "b14b0e33877349078c917130e12fc60f",
+            "name": "frmEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d2c95cafdf33429da0a5cae23145fe3f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onPostShow",
+            "display": "onPostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET__fc3da62a1c1e4190a68d66b2e95ee2aa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.empHeader1.btnCancelsearch.setVisibility(false);\nthis.view.empHeader1.imgSearchMob.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

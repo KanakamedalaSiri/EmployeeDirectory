@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "331dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s3d64eda91204b6bb4beda129a006009",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de8f13d09b4c6b9cbf0debe040e4a7",
+    "id": "btnEdit",
+    "ide_onClick": "AS_Button_fb29d64d7a6a4206bd198597c4496451",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c323a2b6cf2241c6b76012e764641af1",
+    "name": "kony.ui.Button",
+    "parent": "flxViewProfileHeader",
+    "pf": "frmEmpDetails",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

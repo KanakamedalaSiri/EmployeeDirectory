@@ -1,0 +1,27 @@
+{
+    "AS_TextField_b1124cd29221441498bc106460120707": {
+        "id": "AS_TextField_b1124cd29221441498bc106460120707",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "a369de5a326c43e0b764ef2eef239f51",
+            "name": "frmSetting"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__if06c9cd2a9849598553b6069bf40551",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.textChange();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ca38196eba05474d98b92a94ac7b5fba": {
+        "id": "AS_FlexContainer_ca38196eba05474d98b92a94ac7b5fba",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bfb61f5f2c624de48c71237c94c1ceb6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveItem",
+            "display": "saveItem",
+            "inputparams": [{
+                "name": "eventObject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

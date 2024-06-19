@@ -1,0 +1,17 @@
+{
+    "AS_Button_ecc442a6f3424a3aa5e8f21139d9e934": {
+        "id": "AS_Button_ecc442a6f3424a3aa5e8f21139d9e934",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b7687058866c4dbdbeaccc689c0961d1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " this.createNewEmployee();\n\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{    
+"theme_color": "#FFFFFF",    
+"orientation": "potrait",    
+"background_color": "#9E9E9E",    
+"display": "standalone",    
+"name": "Employee Directory admin",    
+"short_name": "Directory",
+"start_url": "/apps/EmpDirAdmin/",
+"icons": [{      
+"src": "launcher-192.png",      
+"type": "image/png",      
+"sizes": "192x192"
+},    {
+"src": "launcher-512.png",      
+"type": "image/png",      
+"sizes": "512x512"    
+}
+
+]
+
+}								

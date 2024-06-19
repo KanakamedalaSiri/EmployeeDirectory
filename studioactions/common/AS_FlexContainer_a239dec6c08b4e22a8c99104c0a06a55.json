@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_a239dec6c08b4e22a8c99104c0a06a55": {
+        "id": "AS_FlexContainer_a239dec6c08b4e22a8c99104c0a06a55",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_j4f6c10c5650448f9ff28489fe9b8c8d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleProfile",
+            "display": "toggleProfile",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

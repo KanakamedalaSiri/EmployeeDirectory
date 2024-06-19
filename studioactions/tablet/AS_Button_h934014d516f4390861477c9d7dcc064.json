@@ -1,0 +1,23 @@
+{
+    "AS_Button_h934014d516f4390861477c9d7dcc064": {
+        "id": "AS_Button_h934014d516f4390861477c9d7dcc064",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "i4ccd6f3bec74505a0559a277d3a039c",
+            "name": "frmListDetail"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ebec450c8d2547829318fe4d28aba254",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.scrollSegmentToSelectedAlphabetIndex(this.view.W);",
+            "callbackType": null
+        }]
+    }
+}

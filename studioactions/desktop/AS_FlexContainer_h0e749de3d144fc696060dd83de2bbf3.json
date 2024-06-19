@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_h0e749de3d144fc696060dd83de2bbf3": {
+        "id": "AS_FlexContainer_h0e749de3d144fc696060dd83de2bbf3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "c28ed57227824a439889454f83d9a8ce",
+            "name": "templateEmpListTab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j2dd2f5b27484f7d9cfa7dfa163156e4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toggleEmpInfo",
+            "display": "toggleEmpInfo",
+            "inputparams": [{
+                "name": "widget",
+                "value": " eventobject"
+            }, {
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

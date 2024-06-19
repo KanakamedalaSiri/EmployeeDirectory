@@ -1,0 +1,23 @@
+{
+    "AS_6d457cb0": {
+        "id": "AS_6d457cb0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ps6d3e77d1636411e8b8c7635bc8852bf5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6d45a3c0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony_rotate(kony.application.getCurrentForm().Triangle,-180);kony_rotate(kony.application.getCurrentForm().Triangle,-180);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

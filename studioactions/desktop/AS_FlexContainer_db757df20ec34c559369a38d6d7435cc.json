@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_db757df20ec34c559369a38d6d7435cc": {
+        "id": "AS_FlexContainer_db757df20ec34c559369a38d6d7435cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": null,
+            "KUID": "a4e506c34e874f9ba4db27642e79d4a1",
+            "name": "sectionHeaderForEmpList"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_abfdfd9fda954b8eaba8c27b8012ca7a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"clicked the edit icon in the segment\");\nthis.executeOnParent(\"processEditIcon\",context.widgetInfo.selecteditems[0]);\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4bde70884e34770ad953c34d0e6af3e",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "977dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de8f13d09b4c6b9cbf0debe040e4a7",
+    "id": "btnFilter",
+    "ide_onClick": "AS_Button_ffd8b2bf409644cda6fd159611c385c5",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "je15a359481640839a33f52e1195efab",
+    "name": "kony.ui.Button",
+    "parent": "flxRoot",
+    "pf": "frmEmpList",
+    "responsiveData": {
+        "b1": {},
+        "b2": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 100
+}

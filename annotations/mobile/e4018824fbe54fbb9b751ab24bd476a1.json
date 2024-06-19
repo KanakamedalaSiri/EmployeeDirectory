@@ -1,0 +1,29 @@
+{
+    "active": 1,
+    "comments": {
+        "e4018824fbe54fbb9b751ab24bd476a1": {
+            "9420-f52b-3db0-5f86-5432-227b": {
+                "commentId": "9420-f52b-3db0-5f86-5432-227b",
+                "widgetId": "e4018824fbe54fbb9b751ab24bd476a1",
+                "formId": "e4018824fbe54fbb9b751ab24bd476a1",
+                "createdOn": 1547189572000,
+                "createdById": "9ff8a245-5377-4f03-b19f-a766bafa65ee",
+                "createdBy": "Mani Sowndarya Chiravuri",
+                "createdByEmail": "sowndarya.chiravuri@kony.com",
+                "lastModifiedTime": 1547189576000,
+                "comment": "fsdfqwrqw",
+                "commentSrc": "visualizer",
+                "active": 1,
+                "channel": "mobile"
+            }
+        }
+    },
+    "projectGuid": "402fd097-2314-4492-b1bc-62c3e41ef198",
+    "accountGuid": "19251d64-5d78-48eb-9693-5579d35605a4",
+    "prototypeGuid": "2GEEG",
+    "id": "e4018824fbe54fbb9b751ab24bd476a1",
+    "channel": "mobile",
+    "createdOn": 1548066298500,
+    "noteGuid": "a7d16519-8208-4c6d-9502-84cf19d9eb86",
+    "synced_on": "2024-06-19T09:10:14.553Z"
+}

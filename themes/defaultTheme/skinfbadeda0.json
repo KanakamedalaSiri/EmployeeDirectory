@@ -1,0 +1,47 @@
+{
+    "android": {
+        "font_name": "Helvetica",
+        "font_size": 54,
+        "isForked": false
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "00000000",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "fontSizeInPx": true,
+    "font_color": "A1A1A1ff",
+    "font_name": "Helvetica",
+    "font_size": 54,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "iphone": {
+        "font_name": "Helvetica",
+        "font_size": 54,
+        "isForked": false
+    },
+    "isDefaultSkin": false,
+    "kuid": "psfbadeda163cf11e8ac507f4fbf9ad319",
+    "spaan": {
+        "font_name": "Helvetica",
+        "font_size": 54,
+        "isForked": false
+    },
+    "spaip": {
+        "font_name": "Helvetica",
+        "font_size": 54,
+        "isForked": false
+    },
+    "spawinphone8": {
+        "font_name": "Helvetica",
+        "font_size": 54,
+        "isForked": false
+    },
+    "wType": "Label",
+    "winphone8": {
+        "font_name": "Helvetica",
+        "font_size": 54,
+        "isForked": false
+    }
+}

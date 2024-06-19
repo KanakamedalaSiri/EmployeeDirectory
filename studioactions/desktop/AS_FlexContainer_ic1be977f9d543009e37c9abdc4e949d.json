@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ic1be977f9d543009e37c9abdc4e949d": {
+        "id": "AS_FlexContainer_ic1be977f9d543009e37c9abdc4e949d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "de1f832826e64422aff1d53a489dc4c9",
+            "name": "segTempRowCommonMaster"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b313b0dbc0a749208bb04c6ee52bcd46",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onRemove(eventobject, context);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

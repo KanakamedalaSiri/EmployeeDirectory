@@ -1,0 +1,13 @@
+[ {
+  "sourceObject" : "Designation",
+  "targetObject" : "Employee",
+  "relationshipKeys" : [ {
+    "sourceField" : "Designation_id",
+    "targetField" : "Designation_id",
+    "etag" : "fe8d51d8-545b-411f-b451-a90fdd61ef96"
+  } ],
+  "name" : "Designation_Employee",
+  "type" : "OneToMany",
+  "custom" : false,
+  "cascadeDelete" : false
+} ]

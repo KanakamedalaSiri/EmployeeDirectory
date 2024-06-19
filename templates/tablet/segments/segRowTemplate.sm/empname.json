@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc573482c4a14e00997b4dc5dd373be1",
+    "_text_": "Acker,clara",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "render": true,
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "empname",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "ee0ebe971fe04a2e86c62b3b975eb1a6",
+    "masterType": 1,
+    "name": "kony.ui.Label",
+    "parent": "Copydatacontainer0ba843467fe8942",
+    "pf": "segRowTemplate",
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "windows8": {
+        "contentAlignment": 1,
+        "render": true
+    },
+    "zindex": 2
+}

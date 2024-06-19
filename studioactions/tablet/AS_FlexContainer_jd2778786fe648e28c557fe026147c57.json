@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_jd2778786fe648e28c557fe026147c57": {
+        "id": "AS_FlexContainer_jd2778786fe648e28c557fe026147c57",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d72d566ff218421bb54cd29522eeec9d",
+            "name": "frmHome"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e86bd2e1cbed4de88eeccc799b14df0e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "voltmx.store.setItem(\"inputType\",\"social\");\nthis.invokeIdentityService(\"reusableFacebookLogin\");\n",
+            "callbackType": null
+        }]
+    }
+}

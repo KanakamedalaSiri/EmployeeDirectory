@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "4.65%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "psfbaa6b3163cf11e8ac507f4fbf9ad319",
+    "_src_": "imgline140369810598496.png",
+    "_top_": {
+        "type": "string",
+        "value": "95.35%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "91.42%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "tablet",
+        "formID": "uwf666366bb7e0453282893ce426a42be3",
+        "platform": "tabrcandroid",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "focusskin": "psfbaa6b3163cf11e8ac507f4fbf9ad319",
+    "id": "Line140369810598496",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "bd7c4fbce333403698f3bbad4ab01d38",
+    "name": "kony.ui.Image2",
+    "parent": "SettingsMenu",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 0
+}

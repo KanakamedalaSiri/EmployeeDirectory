@@ -1,0 +1,38 @@
+{
+  "operationConfig" : {
+    "name" : "deleteEmployee4719",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "public",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "delete",
+    "relationshipHierarchyMapping" : {
+      "children" : [ {
+        "actionsAllSelected" : false,
+        "children" : [ ],
+        "name" : "Contact",
+        "actions" : {
+          "delete" : false
+        },
+        "actionsPartiallySelected" : false,
+        "selected" : false
+      } ],
+      "name" : "Employee",
+      "actions" : {
+        "delete" : true
+      },
+      "selected" : true
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  },
+  "enableFrontendUrl" : false,
+  "customVerb" : false
+}

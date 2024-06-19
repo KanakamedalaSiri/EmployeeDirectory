@@ -1,0 +1,48 @@
+{
+  "operationConfig" : {
+    "name" : "deleteLocation7383",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "public",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "delete",
+    "relationshipHierarchyMapping" : {
+      "children" : [ {
+        "actionsAllSelected" : false,
+        "children" : [ {
+          "actionsAllSelected" : false,
+          "children" : [ ],
+          "name" : "Contact",
+          "actions" : {
+            "delete" : false
+          },
+          "actionsPartiallySelected" : false,
+          "selected" : false
+        } ],
+        "name" : "Employee",
+        "actions" : {
+          "delete" : false
+        },
+        "actionsPartiallySelected" : false,
+        "selected" : false
+      } ],
+      "name" : "Location",
+      "actions" : {
+        "delete" : true
+      },
+      "selected" : true
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  },
+  "etag" : "0a421f99-b1ea-4100-98d1-ff095116d75a",
+  "enableFrontendUrl" : false,
+  "customVerb" : false
+}

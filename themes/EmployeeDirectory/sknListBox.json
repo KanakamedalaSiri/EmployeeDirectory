@@ -1,0 +1,111 @@
+{
+    "android": {
+        "font_name": "default",
+        "font_size": 30,
+        "isForked": false
+    },
+    "androidwearos": {
+        "font_name": "default",
+        "font_size": 61,
+        "isForked": false
+    },
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "333333ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Avenir-Medium",
+        "font_size": 106,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "fontSizeInPx": true,
+    "font_color": "646e83ff",
+    "font_name": "iphoneSystem",
+    "font_size": 106,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {
+        "font_name": "System",
+        "font_size": 61,
+        "isForked": false
+    },
+    "iphone": {
+        "font_name": "System",
+        "font_size": 40,
+        "isForked": false
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_name": "None",
+        "font_size": 106,
+        "isForked": true
+    },
+    "kuid": "sb8c3183fa304d64869bf5d9ebe78c8d",
+    "spaan": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Helvetica",
+        "font_size": 113,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Helvetica",
+        "font_size": 94,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaip": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Helvetica",
+        "font_size": 142,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spaipad": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Helvetica",
+        "font_size": 100,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Helvetica",
+        "font_size": 100,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "customCSS": ".dropdown select {\n       border: 0 !important;             /*Removes border*/\n      -webkit-appearance: none;            /*Removes default chrome and safari style*/\n      -moz-appearance: none;             /* Removes Default Firefox style*/\n      background: url('drop_down.png') no-repeat;          /*Adds background-image*/\n      background-position: 82px 7px;           /*Position of the background-image*/\n      width: 100px;     \n}",
+        "font_name": "Helvetica",
+        "font_size": 142,
+        "isCustomCSSEnabled": false,
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "font_name": "default",
+        "font_size": 101,
+        "isForked": false
+    },
+    "wType": "ListBox",
+    "watchos": {
+        "font_name": "System",
+        "font_size": 61,
+        "isForked": false
+    },
+    "windows8": {
+        "font_name": "None",
+        "font_size": 41,
+        "isForked": false
+    },
+    "winphone8": {
+        "font_name": "None",
+        "font_size": 57,
+        "isForked": false
+    }
+}

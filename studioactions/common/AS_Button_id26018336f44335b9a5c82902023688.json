@@ -1,0 +1,23 @@
+{
+    "AS_Button_id26018336f44335b9a5c82902023688": {
+        "id": "AS_Button_id26018336f44335b9a5c82902023688",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "ub6fa345d1d94544a81e90575c96760e",
+            "type": "userwidgets",
+            "name": "userwidgetmodel"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c9a88d8ec74f46c0863ebffb9feea902",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var nav = new voltmx.mvc.Navigation(\"frmKnowledgeFramework\");\n        nav.navigate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

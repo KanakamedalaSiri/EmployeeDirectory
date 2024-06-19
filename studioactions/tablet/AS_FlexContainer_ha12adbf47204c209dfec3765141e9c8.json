@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_ha12adbf47204c209dfec3765141e9c8": {
+        "id": "AS_FlexContainer_ha12adbf47204c209dfec3765141e9c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "i4ccd6f3bec74505a0559a277d3a039c",
+            "name": "frmListDetail"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchMove_b4a3d73664d54db6b51dab62e497caa1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onTouchScrollMove(eventobject,x,y);",
+            "callbackType": null
+        }]
+    }
+}

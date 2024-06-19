@@ -1,0 +1,112 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23fe01e5e5841c38af2b17c0e75bb8f",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "82dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblTitleDesignation",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a1a5421b3fcf4e9c9fa93a4ac1332a04",
+    "name": "kony.ui.Label",
+    "parent": "flxEmpNameDept",
+    "pf": "frmEmpDetails",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "60%"
+            },
+            "height": {
+                "type": "string",
+                "value": "26px"
+            },
+            "top": {
+                "type": "string",
+                "value": "5%"
+            }
+        },
+        "b2": {
+            "top": {
+                "type": "string",
+                "value": "35%"
+            }
+        },
+        "b3": {
+            "top": {
+                "type": "string",
+                "value": "45%"
+            }
+        },
+        "b3285039728": {
+            "top": {
+                "type": "string",
+                "value": "45%"
+            }
+        },
+        "b4": {},
+        "b5": {
+            "top": {
+                "type": "string",
+                "value": "75dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

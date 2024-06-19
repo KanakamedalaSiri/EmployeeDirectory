@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "301px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_right_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_skin_": "psd1938b316e4011e8bfbd290fbe0bfa7d",
+    "_text_": "Jeremaiah",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "psd1938b316e4011e8bfbd290fbe0bfa7d",
+    "id": "txtFirstName",
+    "info": null,
+    "isvisible": false,
+    "keyboardtype": "A",
+    "kuid": "b65bed8f4285469fa92526c1e600fa55",
+    "maxheight": {
+        "type": "string",
+        "value": ""
+    },
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "paddinglocked": "",
+    "parent": "flxFirstName",
+    "pf": "frmEmpDetails",
+    "responsiveData": {},
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 21
+}

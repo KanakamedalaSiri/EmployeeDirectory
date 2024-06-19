@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s24af3e2c5b4406281f7c2e3e0353f53",
+    "_text_": "Clear All",
+    "_top_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd0cc189c8dd4a67aab3b4556651507c",
+    "id": "clearAll",
+    "ide_onClick": "AS_Button_a8a2951345324586826d4bc6752f8f74",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b4283e63da394d92b82df156dfb233ec",
+    "name": "kony.ui.Button",
+    "parent": "flxFilter",
+    "pf": "frmEmpList",
+    "responsiveData": {
+        "b1": {
+            "top": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b2": {
+            "top": {
+                "type": "number",
+                "value": "0"
+            },
+            "width": {
+                "type": "string",
+                "value": "50px"
+            },
+            "zIndex": 50
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

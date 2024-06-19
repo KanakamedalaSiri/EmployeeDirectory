@@ -1,0 +1,484 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segEmployees",
+    "ide_onRowClick": "AS_Segment_b210797367534a1dbe39e0d2e36f7621",
+    "ide_onTouchEnd": "AS_Segment_fe00262da69643f584f8d3bb53619c02",
+    "ide_onTouchMove": "AS_Segment_c39eae6681ff45cebeed6a4520def782",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ca18f1a7a1a04879b1cbd01bc9f60f5b",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            }
+        ],
+        "rowTemplateId": "e3727f54b3c04fc4a62e7a22287362de",
+        "rowtemplate": "datacontainer",
+        "selectionBehaviorConfig": {},
+        "widgetdatamap": {
+            "datacontainer": "datacontainer",
+            "department": "department",
+            "designation": "designation",
+            "empID": "empID",
+            "empimage": "empimage",
+            "empname": "empname",
+            "flxImageHolder": "flxImageHolder",
+            "flxOnline": "flxOnline",
+            "lblInvisible": "lblInvisible"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_1_1.png",
+    "pageondotimage": "pageondot_1_1.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSeg",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 2,
+    "rowfocusskin": "sbcc7b2d6ae14f83bdde659ef7d12120",
+    "rowskin": "sb07450e57334423a46ad1e880d39705",
+    "rowtemplate": "datacontainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s274718c0fee42d7a817324f80cfd67e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "tablet": {
+        "_data_": [
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            },
+            {
+                "department": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Department"
+                },
+                "designation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Designation"
+                },
+                "empID": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "empimage": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "user_profile.png"
+                },
+                "empname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Acker,clara"
+                },
+                "lblInvisible": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "a"
+                }
+            }
+        ],
+        "rowTemplateId": "e74326cedf3e41399f0aea93e4ebeda4",
+        "rowtemplate": "Copydatacontainer0ba843467fe8942",
+        "widgetdatamap": {
+            "Copydatacontainer0ba843467fe8942": "Copydatacontainer0ba843467fe8942",
+            "department": "department",
+            "designation": "designation",
+            "empID": "empID",
+            "empimage": "empimage",
+            "empname": "empname",
+            "flxImageHolder": "flxImageHolder",
+            "flxOnline": "flxOnline",
+            "lblInvisible": "lblInvisible"
+        }
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Copydatacontainer0ba843467fe8942": "Copydatacontainer0ba843467fe8942",
+        "department": "department",
+        "designation": "designation",
+        "empID": "empID",
+        "empimage": "empimage",
+        "empname": "empname",
+        "flxImageHolder": "flxImageHolder",
+        "flxOnline": "flxOnline",
+        "lblInvisible": "lblInvisible"
+    },
+    "zindex": 2
+}

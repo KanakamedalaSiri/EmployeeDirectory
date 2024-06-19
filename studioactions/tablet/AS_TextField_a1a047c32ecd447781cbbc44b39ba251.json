@@ -1,0 +1,26 @@
+{
+    "AS_TextField_a1a047c32ecd447781cbbc44b39ba251": {
+        "id": "AS_TextField_a1a047c32ecd447781cbbc44b39ba251",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "i4ccd6f3bec74505a0559a277d3a039c",
+            "name": "frmListDetail"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_dcb87048d0a24979bb5f54d966f7e30f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onTextChangeAndDoneOfTbxSearch();",
+            "callbackType": null
+        }]
+    }
+}
